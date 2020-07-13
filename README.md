@@ -1,4 +1,7 @@
 ﻿## a Ton of Items ##
+
+There are *tons* of suggestions from English and Russian parts of the Streets of Rogue community, so I added texts for both languages:
+
 ***
 > *[Milky_Guy#4305 11.07.20 19:27]*<br/>
 > бесконечный хавчик, востанавливает 1 хп за прием. *(infinite fud, restores 1 hp per use)*<br/>
@@ -34,6 +37,7 @@
 
 ● **Identity Stealer** - Steals another character's identity.<br/>
 ● ***Кража личности** - Ворует личность другого персонажа.*<br/>
+Almost done, I just need to create a sprite and figure out how to change agents' colors *(Почти готово, осталось только сделать спрайт и понять как менять цвета персонажей)*<br/>
 ***
 > *[Uncertainty#5751 12.07.20 9:50]*<br/>
 > Телекинез *(Telekinesis)*<br/>
@@ -41,17 +45,20 @@
 > Предмет позволяющий удалённо поднимать разлчиные предметы *(Item that allows you to pick up items from distance)*<br/>
 > и кидать *(and throw them)*<br/>
 
-Это больше подойдёт в качестве способности, а не предмета.<br/>
+This fits more as an ability, than an item. *(Это больше подойдёт в качестве способности, а не предмета.)*<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 9:54]*<br/>
 > сделай стакан горячего шоколада как в зе ескейпитс *(make a cup of molten chocolate like in the escapists)*<br/>
 
 ● **Cup of Molten Chocolate** - That's a nice drink you're enjoying there... AAAAAAAAAAAAAAAAAAAAH!<br/>
 ● ***Кружка расплавленного шоколада** - \<need translation\>*<br/>
+The only problem is that when you hold the Cup of Molten Chocolate, your character will be seen holding a Water Pistol. *(Единственная проблема в том, что когда ты держишь Кружку расплавленного шоколада, у персонажа в руке показывается Водяной пистолет)*<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 10:08]*<br/>
 > аче насчет перчатки танаса *(what about thanas' glove)*<br/>
 > а имена щелчок *(particularly the snap)*<br/>
+
+The snap particle effect might be a problem. *(Эффект частиц от щелчка будет сложно сделать.)*<br/>
 ***
 > *[яQenapp (Билибил)#2445 12.07.20 11:18]*<br/>
 > а как нащёт портативного раздатчика патронов? *(what about a portable ammo dispenser?)*<br/>
@@ -101,9 +108,9 @@
 > *[babzoid1#7584 12.07.20 18:15]*<br/>
 > черный телефон, через который можно вызвать ассасинов на чкловека *(black phone, that you can use to call assassins to attack a person)*<br/>
 ***
-
-
-
+> *[A Monster#4621 13.07.20 16:02]*<br/>
+I have an idea. A new melee weapon called the Phase Sword. It can hit people through walls without breaking the walls (long reach) and damage ghosts. *(У меня есть идея. Новое оружие ближнего боя, Фазовый меч. Он может ударять людей сквозь стены, но не ломая стены (большой охват) и ранит призраков.)*<br/>
+***
 
 
 
