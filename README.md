@@ -28,12 +28,8 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 ● **Bound Voodoo Doll** - Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to remove the bond.<br/>
 ● ***Кукла Вуду** - Объедините куклу с любым оружием/расходником для нанесения урона/эффектов жертве. Объедините с самой собой, чтобы убрать связь.*<br/>
 ***
-> *[Milky_Guy#4305 12.07.20 9:46]*<br/>
-> а можно сделать так чтобы при использовании "предмета" он превращал игрока в кого то рандомно либо по выбору *(is it possible to make it so that, when you use "item" the player will be turned into someone else at random or by choice)*<br/>
-> хм *(hm)*<br/>
-> как штука шпиона *(like Spy's thing)*<br/>
-> из тфки *(from tf)*<br/>
-> я оттуда вдохновлялся *(that's where I got the idea)*<br/>
+> *[! ! ! yes it is#8877 11.07.2020 2:03]*<br/>
+> /suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things) *(/suggest что если была бы спобность маскировки. Типа как набор маскировки шпиона из тф2, только вот можно максироваться в людей, рядом с которыми ты находишься (как устройство для взлома, но вместо взлома маскировка))*<br/>
 
 ● **Identity Stealer** - Steals another character's identity.<br/>
 ● ***Кража личности** - Ворует личность другого персонажа.*<br/>
