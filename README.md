@@ -104,7 +104,26 @@ The snap particle effect might be a problem.<br/>
 > *black phone, that you can use to call assassins to attack a person*<br/>
 ***
 > *[A Monster#4621 13.07.20 16:02]*<br/>
-I have an idea. A new melee weapon called the Phase Sword. It can hit people through walls without breaking the walls (long reach) and damage ghosts.<br/>
+> I have an idea. A new melee weapon called the Phase Sword. It can hit people through walls without breaking the walls (long reach) and damage ghosts.<br/>
+***
+> *[Milky_Guy#4305 13.07.20 16:53] (translated from russian)*<br/>
+> *what about a zombie grenade*<br/>
+> *that inflicts zombie effect*<br/>
+> *so that the damage kills npcs*<br/>
+> *and turns them into zombies*<br/>
+> *also can be used as an effect*<br/>
+> *for that thing*<br/>
+> *that is like a ventilation*<br/>
+***
+> *[babzoid1#7584 13.07.20 17:31] (translated from russian)*<br/>
+> *Item: Remote Controller (looks like Xbox gamepad), is used on npc, just like voodoo doll, allows you to control that character  aka Alien's hypnosis (one-use)*<br/>
+***
+> *[Argonaut#9174 13.07.20 2:46]*<br/>
+> Pineapple, which you can eat to heal or throw at people<br/>
+> *[A Monster#4621 13.07.20 2:46]*<br/>
+> I think the word you're looking for is 'coconut'<br/>
+> *[Argonaut#9174 13.07.20 2:46]*<br/>
+> Coconut, which you can eat to heal or throw at people<br/>
 ***
 
 
