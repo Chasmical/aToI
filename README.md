@@ -125,6 +125,39 @@ The snap particle effect might be a problem.<br/>
 > *[Argonaut#9174 13.07.20 2:46]*<br/>
 > Coconut, which you can eat to heal or throw at people<br/>
 ***
+> *[babzoid1#7584 14.07.20 6:52] (translated from russian)*<br/>
+> *a button, that allows you to summon rockets (1-3)*<br/>
+> *at the specified place*<br/>
+***
+> *[Milky_Guy 14.07.20 7:55] (translated from russian)*<br/>
+> *blya, an idea*<br/>
+> *before, in churches or something like that*<br/>
+> *there was an altar*<br/>
+> *I still don't understand what it was supposed to do*<br/>
+> *but let it be an alternative to cannibanilsm*<br/>
+> *like, press on the altar in inventory*<br/>
+> *and select a body*<br/>
+> *and after eating you restore hp*<br/>
+***
+> *[кто-то#6758 14.07.20 8:18] (translated from russian)*<br/>
+> *item idea ritual dagger that will repair itself or heal the player when used to kill someone*<br/>
+***
+> *[кто-то#6758 14.07.20 8:24] (translated from russian)*<br/>
+> *can you make a grindstone that will make shivs from items*<br/>
+> *shiv 3 damage and 1 durability*<br/>
+> *[Abbysssal#2020 14.07.20 8:39] (translated from russian)*<br/>
+> *grindstone can be used to temporarily increase weapons' damage*<br/>
+***
+
+
+
+
+
+
+
+
+
+
 
 
 
