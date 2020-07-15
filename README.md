@@ -3,8 +3,8 @@
 There are *tons* of suggestions from English and Russian parts of the Streets of Rogue community. So, I made texts for both languages:
 
 <table>
-<th><a href="https:.//github.com/Abbysssal/aToI/blob/master/README.md">English</a></th>
-<th><a href="https:.//github.com/Abbysssal/aToI/blob/master/README-ru.md">Russian</a></th>
+<th><a href="https://github.com/Abbysssal/aToI/blob/master/README.md">English</a></th>
+<th><a href="https://github.com/Abbysssal/aToI/blob/master/README-ru.md">Russian</a></th>
 </table>
 
 ***
@@ -15,28 +15,28 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 > *and infinite it is :thinking\~1:*<br/>
 > *give it a try?*<br/>
 
-![Image](../img/QuantumFud.png)
+![Image](./img/QuantumFud.png)
 ● **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *(restores 1 hp per use, infinite)*<br/>
 ***
 > *[Uncertainty#5751 12.07.20 5:39] (translated from russian)*<br/>
 > Heh<br/>
 > Can you try to make an item that teleports on a random distance?<br/>
 
-![Image](../img/WildBypasser.png)
+![Image](./img/WildBypasser.png)
 ● **Wild Bypasser** - Warps you in the direction you're facing. Teleports through any amount of walls. *(works like Wall Bypasser, but teleports through any amount of walls)*<br/>
 ***
 > *[babzoid1#7584 12.07.20 8:34] (translated from russian)*<br/>
 > *Voodoo doll, to bind it to a character you need to punch them, works like Alien's hypnosis and gives you access to the victim's inventory*<br/>
 
-![Image](../img/VoodooInactive.png)
+![Image](./img/VoodooInactive.png)
 ● **Blank Voodoo Doll** - Bind it to someone first. Has limited uses. *(target any character to bind the doll to them)*<br/>
-![Image](../img/Voodoo.png)
+![Image](./img/Voodoo.png)
 ● **Bound Voodoo Doll** - Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to remove the bond. *(combining with melee weapons deals some damage to the victim, ranged weapons - spawns the bullet/projectile into the victim, consumables - forces the victim to use that consumable)*<br/>
 ***
 > *[! ! ! yes it is#8877 11.07.2020 2:03]*<br/>
 > /suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things)<br/>
 
-![Image](../img/DisguiseKit.png)
+![Image](./img/DisguiseKit.png)
 ● **Disguise Kit** - Disguises you as the selected character. *(changes your appearance and relationships with other characters)*<br/>
 Almost done, I just need to create a sprite and figure out how to change agents' colors<br/>
 ***
@@ -51,7 +51,7 @@ This fits more as an ability, than an item.<br/>
 > *[Milky_Guy#4305 12.07.20 9:54] (translated from russian)*<br/>
 > *make a cup of molten chocolate like in the escapists*<br/>
 
-![Image](../img/CupOfMoltenChocolate.png)
+![Image](./img/CupOfMoltenChocolate.png)
 ● **Cup of Molten Chocolate** - That's a nice drink you're enjoying there... AAAAAAAAAAAAAAAAAAAAH! *(just like in The Escapists 1/2, knocks people out instantly)*<br/>
 The only problem is that when you hold the Cup of Molten Chocolate, your character will be seen holding a Water Pistol.<br/>
 ***
@@ -64,7 +64,7 @@ The snap particle effect might be a problem.<br/>
 > *[яQenapp (Билибил)#2445 12.07.20 11:18] (translated from russian)*<br/>
 > *what about a portable ammo dispenser?*<br/>
 
-![Image](../img/PortableAmmoDispenser.png)
+![Image](./img/PortableAmmoDispenser.png)
 ● **Portable Ammo Dispenser** - Use it to refill your ranged weapons' ammo. For money, of course. *(works almost like the regular Ammo Dispenser, but without the extra cost per floor)*<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 11:21] (translated from russian)*<br/>
@@ -76,7 +76,7 @@ The snap particle effect might be a problem.<br/>
 > *[Abbysssal#2020 15.07.20 2:58] (translated from russian)*<br/>
 > *about that, I think it will be better to make a joke book, that allows characters to use Joke. Otherwise, it would be completely useless for everyone, except for Comedian.*<br/>
 
-![Image](../img/JokeBook.png)
+![Image](./img/JokeBook.png)
 ● **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*<br/>
 ***
 > *[babzoid1#7584 12.07.20 11:24] (translated from russian)*<br/>
