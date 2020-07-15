@@ -40,14 +40,6 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 ● **Disguise Kit** - Disguises you as the selected character. *(changes your appearance and relationships with other characters)*<br/>
 Almost done, I just need to create a sprite and figure out how to change agents' colors<br/>
 ***
-> *[Uncertainty#5751 12.07.20 9:50] (translated from russian)*<br/>
-> *Telekinesis*<br/>
-> *Hmmm*<br/>
-> *Item that allows you to pick up items from distance*<br/>
-> *and throw them*<br/>
-
-This fits more as an ability, than an item.<br/>
-***
 > *[Milky_Guy#4305 12.07.20 9:54] (translated from russian)*<br/>
 > *make a cup of molten chocolate like in the escapists*<br/>
 
@@ -63,9 +55,15 @@ The snap particle effect might be a problem.<br/>
 ***
 > *[яQenapp (Билибил)#2445 12.07.20 11:18] (translated from russian)*<br/>
 > *what about a portable ammo dispenser?*<br/>
+> *[Abbysssal#2020 14.07.20 5:52] (translated from russian)*<br/>
+> *hm, maybe I should make an ammo box instead?*<br/>
+> *like, you combine it with a weapon, the weapon is refilled and the ammo box's reserves are decreased*<br/>
+> *or should I make both the ammo box and ammo dispenser?*<br/>
 
 ![Image](./img/PortableAmmoDispenser.png)
 ● **Portable Ammo Dispenser** - Use it to refill your ranged weapons' ammo. For money, of course. *(works almost like the regular Ammo Dispenser, but without the extra cost per floor)*<br/>
+![Image](./img/AmmoBox.png)
+● **Ammo Box** - Combine with any refillable weapon to refill it. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 11:21] (translated from russian)*<br/>
 > *something like a book*<br/>
