@@ -166,8 +166,11 @@ I'll make this one later, probably after I add "doing something" feature in Rogu
 ● **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.<br/>
 Almost done, I just need to make it so that people get angry when the player hits them.<br/>
 ***
-
-
+> *[GenEric (voiced by Vince Offer)#1897 16.07.20 15:24]*<br/>
+> ok abby what about<br/>
+> ![Image](https://cdn.discordapp.com/attachments/433748059172896769/733343317949022288/dysamljwuyb41.png)<br/>
+> banana peel gun<br/>
+***
 
 
 
