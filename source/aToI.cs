@@ -102,7 +102,7 @@ namespace aTonOfItems
 					agent.agentHelperTr.localPosition = position;
 					tileData = GameController.gameController.tileInfo.GetTileData(agent.agentHelperTr.position);
 
-				} while ((GameController.gameController.tileInfo.IsOverlapping(agent.agentHelperTr.position, "Anything") || tileData.wallMaterial != wallMaterialType.None) && limit++ < 100);
+				} while ((GameController.gameController.tileInfo.IsOverlapping(agent.agentHelperTr.position, "Anything") || tileData.wallMaterial != wallMaterialType.None) && limit++ < 250);
 
 				if (limit > 249) return;
 
@@ -287,16 +287,16 @@ namespace aTonOfItems
 			};
 			#endregion
 
-			#region Identity Stealer
-			Sprite sprite5 = RogueUtilities.ConvertToSprite(Properties.Resources.QuantumFud);
-			CustomItem identityStealer = RogueLibs.SetItem("IdentityStealer", sprite5,
-				new CustomNameInfo("Identity Stealer",
+			#region Disguise Kit
+			Sprite sprite5 = RogueUtilities.ConvertToSprite(Properties.Resources.DisguiseKit);
+			CustomItem identityStealer = RogueLibs.SetItem("DisguiseKit", sprite5,
+				new CustomNameInfo("DisguiseKit",
 					null, null, null, null,
-					"Кража личности",
+					"Набор маскировки",
 					null, null),
-				new CustomNameInfo("Steals another character's identity.",
+				new CustomNameInfo("Always wanted to be someone else? Now you can!",
 					null, null, null, null,
-					"Ворует личность другого персонажа.",
+					"Всегда хотели быть кем-то другим? Теперь вы можете!",
 					null, null),
 				item =>
 				{
@@ -315,14 +315,29 @@ namespace aTonOfItems
 			identityStealer.TargetObject = (item, agent, obj) =>
 			{
 				Agent target = (Agent)obj;
-
+				
 				string prev = agent.agentName;
 				agent.agentName = target.agentName;
 
 				agent.relationships.CopyLooks(target);
-				agent.relationships.CopyRelationships(target);
-				agent.agentHitboxScript.SetupFeatures();
-				agent.objectSprite.RefreshRenderer();
+
+				agent.gc.audioHandler.Play(agent, "Spawn");
+				agent.gc.spawnerMain.SpawnParticleEffect("Spawn", agent.tr.position, 0f);
+
+				foreach (Relationship rel in target.relationships.RelList)
+				{
+					Relationship otherRel = rel.agent.relationships.GetRelationship(target);
+
+					agent.relationships.SetRel(rel.agent, rel.relType);
+					agent.relationships.SetRelHate(rel.agent, 0);
+					agent.relationships.GetRelationship(rel.agent).secretHate = rel.secretHate;
+					agent.relationships.GetRelationship(rel.agent).mechHate = rel.mechHate;
+
+					rel.agent.relationships.SetRel(agent, otherRel.relType);
+					rel.agent.relationships.SetRelHate(agent, 0);
+					rel.agent.relationships.GetRelationship(agent).secretHate = otherRel.secretHate;
+					rel.agent.relationships.GetRelationship(agent).mechHate = otherRel.mechHate;
+				}
 
 				target.relationships.SetRel(agent, "Hateful");
 				target.relationships.SetRelHate(agent, 25);
@@ -331,9 +346,9 @@ namespace aTonOfItems
 				item.database.SubtractFromItemCount(item, 1);
 				item.invInterface.HideTarget();
 			};
-			identityStealer.SetHoverText(new CustomNameInfo("Steal Identity",
+			identityStealer.SetHoverText(new CustomNameInfo("Disguise",
 				null, null, null, null,
-				"Украсть личность",
+				"Замаскироваться",
 				null, null));
 			#endregion
 
@@ -353,6 +368,7 @@ namespace aTonOfItems
 					item.itemType = "WeaponMelee";
 					item.weaponCode = weaponType.WeaponMelee;
 					item.Categories.Add("Weapons");
+					item.Categories.Add("NotRealWeapons");
 					item.isWeapon = true;
 					item.itemValue = 80;
 					item.initCount = 3;
@@ -379,7 +395,8 @@ namespace aTonOfItems
 				{
 					item.itemType = "Combine";
 					item.Categories.Add("Technology");
-					item.Categories.Add("Stealth");
+					item.Categories.Add("GunAccessory");
+					item.Categories.Add("Guns");
 					item.itemValue = 80;
 					item.initCount = 1;
 					item.rewardCount = 1;
@@ -424,8 +441,10 @@ namespace aTonOfItems
 			};
 			portableAmmoDispenser.CombineTooltip = (item, agent, otherItem) =>
 			{
+				if (otherItem.invItemName == "PortableAmmoDispenser") return null;
+
 				int amountToRefill = otherItem.maxAmmo - otherItem.invItemCount;
-				if (amountToRefill == 0) return null;
+				if (amountToRefill < 1) return null;
 
 				float singleCost = (float)otherItem.itemValue / otherItem.maxAmmo;
 				if (agent.oma.superSpecialAbility && (agent.agentName == "Soldier" || agent.agentName == "Doctor"))
@@ -437,7 +456,7 @@ namespace aTonOfItems
 			#endregion
 
 			#region Ammo Box
-			Sprite sprite8 = RogueUtilities.ConvertToSprite(Properties.Resources.QuantumFud);
+			Sprite sprite8 = RogueUtilities.ConvertToSprite(Properties.Resources.AmmoBox);
 			CustomItem ammoBox = RogueLibs.SetItem("AmmoBox", sprite8,
 				new CustomNameInfo("Ammo Box",
 				null, null, null, null,
@@ -451,10 +470,13 @@ namespace aTonOfItems
 				{
 					item.itemType = "Combine";
 					item.Categories.Add("Technology");
+					item.Categories.Add("GunAccessory");
+					item.Categories.Add("Guns");
 					item.itemValue = 4;
 					item.initCount = 100;
 					item.rewardCount = 100;
 					item.hasCharges = true;
+					item.stackable = true;
 				});
 			ammoBox.CombineFilter = (item, agent, otherItem) => otherItem.itemType == "WeaponProjectile" && !otherItem.noRefills;
 			ammoBox.CombineItem = (item, agent, otherItem, slotNum) =>
@@ -478,15 +500,11 @@ namespace aTonOfItems
 				agent.SayDialogue("AmmoDispenserFilled");
 				agent.gc.audioHandler.Play(agent, "BuyItem");
 				new ItemFunctions().UseItemAnim(item, agent);
-
-				if (item.invItemCount < 1)
-				{
-					agent.mainGUI.invInterface.HideDraggedItem();
-					agent.mainGUI.invInterface.HideTarget();
-				}
 			};
 			ammoBox.CombineTooltip = (item, agent, otherItem) =>
 			{
+				if (otherItem.invItemName == "AmmoBox") return null;
+
 				int amountToRefill = otherItem.maxAmmo - otherItem.invItemCount;
 				if (amountToRefill == 0) return null;
 
@@ -535,7 +553,7 @@ namespace aTonOfItems
 			#endregion
 
 			#region Grindstone
-			Sprite sprite10 = RogueUtilities.ConvertToSprite(new byte[0]);
+			Sprite sprite10 = RogueUtilities.ConvertToSprite(Properties.Resources.Grindstone);
 			CustomItem grindstone = RogueLibs.SetItem("Grindstone", sprite10,
 				new CustomNameInfo("Grindstone",
 				null, null, null, null,
@@ -543,18 +561,21 @@ namespace aTonOfItems
 				null, null),
 				new CustomNameInfo("Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.",
 				null, null, null, null,
-				"",
+				"Используйте на оружии ближнего боя для их заточки. Заточенные оружия будут игнорировать все защищающие эффекты.",
 				null, null),
 				item =>
 				{
 					item.itemType = "Combine";
 					item.Categories.Add("Technology");
+					item.Categories.Add("MeleeAccessory");
+					item.Categories.Add("Melee");
 					item.itemValue = 4;
 					item.initCount = 100;
 					item.rewardCount = 100;
 					item.hasCharges = true;
+					item.stackable = true;
 				});
-			grindstone.CombineFilter = (item, agent, otherItem) => !otherItem.contents.Exists(c => c.StartsWith("Sharpened:"));
+			grindstone.CombineFilter = (item, agent, otherItem) => otherItem.itemType == "WeaponMelee" && !otherItem.contents.Exists(c => c.StartsWith("Sharpened:"));
 			grindstone.CombineItem = (item, agent, otherItem, slotNum) =>
 			{
 				otherItem.contents.Add("Sharpened:3");
@@ -617,6 +638,9 @@ namespace aTonOfItems
 				if (--num > 0)
 					me.invItem.contents.Add("Sharpened:" + num);
 				generic = true;
+
+				ag.relationships.SetRel(me.agent, "Hateful");
+				ag.relationships.SetRelHate(me.agent, 50);
 			}
 			return true;
 		}

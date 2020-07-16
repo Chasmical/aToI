@@ -83,6 +83,16 @@ namespace aTonOfItems.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] DisguiseKit {
+            get {
+                object obj = ResourceManager.GetObject("DisguiseKit", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] Grindstone {
             get {
                 object obj = ResourceManager.GetObject("Grindstone", resourceCulture);

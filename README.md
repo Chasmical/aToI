@@ -37,8 +37,8 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 > /suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things)<br/>
 
 ![Image](./img/DisguiseKit.png)
-● **Disguise Kit** - Disguises you as the selected character. *(changes your appearance and relationships with other characters)*<br/>
-Almost done, I just need to create a sprite and figure out how to change agents' colors<br/>
+● **Disguise Kit** - Always wanted to be someone else? Now you can! *(disguises you as the selected character)*<br/>
+Currently doesn't work on colors, so you won't be able to fool other players.
 ***
 > *[Milky_Guy#4305 12.07.20 9:54] (translated from russian)*<br/>
 > *make a cup of molten chocolate like in the escapists*<br/>
@@ -80,6 +80,8 @@ The snap particle effect might be a problem.<br/>
 > *[babzoid1#7584 12.07.20 11:24] (translated from russian)*<br/>
 > *stranglehold/noose/knot (from hitman franchise), to kill silently*<br/>
 > *uses the bar "doing something"*<br/>
+
+I'll make this one later, probably after I add "doing something" feature in RogueLibs.<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 11:29] (translated from russian)*<br/>
 > *what about grenades for alien beings*<br/>
@@ -159,6 +161,10 @@ The snap particle effect might be a problem.<br/>
 > *shiv 3 damage and 1 durability*<br/>
 > *[Abbysssal#2020 14.07.20 8:39] (translated from russian)*<br/>
 > *grindstone can be used to temporarily increase weapons' damage*<br/>
+
+![Image](./img/Grindstone.png)
+● **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.<br/>
+Almost done, I just need to make it so that people get angry when the player hits them.<br/>
 ***
 
 
