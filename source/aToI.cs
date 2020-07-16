@@ -535,7 +535,22 @@ namespace aTonOfItems
 			};
 			#endregion
 
+			#region Grindstone
+			Sprite sprite10 = RogueUtilities.ConvertToSprite(new byte[0]);
+			CustomItem grindstone = RogueLibs.SetItem("Grindstone", sprite10,
+				new CustomNameInfo("Grindstone",
+				null, null, null, null,
+				"Точильный камень",
+				null, null),
+				new CustomNameInfo("Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.",
+				null, null, null, null,
+				"",
+				null, null),
+				item =>
+				{
 
+				});
+			#endregion
 
 
 
@@ -545,36 +560,48 @@ namespace aTonOfItems
 		}
 
 
-		public static bool PlayfieldObject_FindDamage(PlayfieldObject __instance, PlayfieldObject damagerObject)
+		public static bool PlayfieldObject_FindDamage(PlayfieldObject __instance, PlayfieldObject damagerObject, ref bool generic)
 		{
 			if (!__instance.isAgent || !damagerObject.isMelee) return true;
 
 			Agent ag = (Agent)__instance;
 			Melee me = damagerObject.playfieldObjectMelee;
-			if (me.invItem.invItemName != "CupOfMoltenChocolate" || ag.statusEffects.hasStatusEffect("Invincible")) return true;
-
-			me.invItem.database.SubtractFromItemCount(me.invItem, 1);
-
-			ag.knockedOut = ag.knockedOutLocal = true;
-			__instance.gc.tileInfo.DirtyWalls();
-			ag.lastHitByAgent = ag.justHitByAgent2 = me.agent;
-			ag.healthBeforeKnockout = ag.health;
-
-			ag.deathMethodItem = ag.deathMethodObject = me.invItem.invItemName = ag.deathMethod = me.invItem.invItemName;
-			ag.deathKiller = me.agent.agentName;
-
-			ag.statusEffects.ChangeHealth(-200f);
-			ag.tranqTime = 0;
-			string rel = ag.relationships.GetRel(me.agent);
-			if (rel != "Aligned" && rel != "Submissive")
+			if (me.agent != ag && me.invItem.invItemName == "CupOfMoltenChocolate" && !ag.statusEffects.hasStatusEffect("Invincible"))
 			{
-				ag.relationships.SetRel(me.agent, "Hateful");
-				ag.dead = false;
-				ag.relationships.SetRelHate(me.agent, 5);
-				ag.dead = true;
-			}
+				me.invItem.database.SubtractFromItemCount(me.invItem, 1);
 
-			return false;
+				ag.knockedOut = ag.knockedOutLocal = true;
+				__instance.gc.tileInfo.DirtyWalls();
+				ag.lastHitByAgent = ag.justHitByAgent2 = me.agent;
+				ag.healthBeforeKnockout = ag.health;
+
+				ag.deathMethodItem = ag.deathMethodObject = ag.deathMethod = me.invItem.invItemName;
+				ag.deathKiller = me.agent.agentName;
+
+				ag.statusEffects.ChangeHealth(-200f);
+				ag.tranqTime = 0;
+				string rel = ag.relationships.GetRel(me.agent);
+				if (rel != "Aligned" && rel != "Submissive")
+				{
+					ag.relationships.SetRel(me.agent, "Hateful");
+					ag.dead = false;
+					ag.relationships.SetRelHate(me.agent, 5);
+					ag.dead = true;
+				}
+
+				return false;
+			}
+			else if (me.invItem.contents.Exists(c => c.StartsWith("Sharpened:")))
+			{
+				string sharpenedStr = me.invItem.contents.Find(c => c.StartsWith("Sharpened:"));
+				string numStr = sharpenedStr.Substring("Sharpened:".Length);
+				int num = int.Parse(numStr);
+				me.invItem.contents.Remove(sharpenedStr);
+				if (--num > 0)
+					me.invItem.contents.Add("Sharpened:" + num);
+				generic = true;
+			}
+			return true;
 		}
 
 		#region Voodoo Checks
