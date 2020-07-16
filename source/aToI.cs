@@ -7,7 +7,7 @@ using RogueLibsCore;
 namespace aTonOfItems
 {
 	[BepInPlugin(pluginGuid, pluginName, pluginVersion)]
-	[BepInDependency(RogueLibs.pluginGuid, "1.3.1")]
+	[BepInDependency(RogueLibs.pluginGuid, "1.3.3")]
 	public class ATOI : BaseUnityPlugin
 	{
 		public const string pluginGuid = "abbysssal.streetsofrogue.atoi";
