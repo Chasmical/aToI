@@ -7,7 +7,7 @@ using RogueLibsCore;
 namespace aTonOfItems
 {
 	[BepInPlugin(pluginGuid, pluginName, pluginVersion)]
-	[BepInDependency(RogueLibs.pluginGuid, "1.3")]
+	[BepInDependency(RogueLibs.pluginGuid, "1.3.1")]
 	public class ATOI : BaseUnityPlugin
 	{
 		public const string pluginGuid = "abbysssal.streetsofrogue.atoi";
@@ -454,7 +454,6 @@ namespace aTonOfItems
 					item.itemValue = 4;
 					item.initCount = 100;
 					item.rewardCount = 100;
-					item.stackable = true;
 					item.hasCharges = true;
 				});
 			ammoBox.CombineFilter = (item, agent, otherItem) => otherItem.itemType == "WeaponProjectile" && !otherItem.noRefills;
@@ -480,7 +479,7 @@ namespace aTonOfItems
 				agent.gc.audioHandler.Play(agent, "BuyItem");
 				new ItemFunctions().UseItemAnim(item, agent);
 
-				if (item.invItemCount <= 0)
+				if (item.invItemCount < 1)
 				{
 					agent.mainGUI.invInterface.HideDraggedItem();
 					agent.mainGUI.invInterface.HideTarget();
@@ -548,8 +547,26 @@ namespace aTonOfItems
 				null, null),
 				item =>
 				{
-
+					item.itemType = "Combine";
+					item.Categories.Add("Technology");
+					item.itemValue = 4;
+					item.initCount = 100;
+					item.rewardCount = 100;
+					item.hasCharges = true;
 				});
+			grindstone.CombineFilter = (item, agent, otherItem) => !otherItem.contents.Exists(c => c.StartsWith("Sharpened:"));
+			grindstone.CombineItem = (item, agent, otherItem, slotNum) =>
+			{
+				otherItem.contents.Add("Sharpened:3");
+				item.database.SubtractFromItemCount(item, 1);
+				new ItemFunctions().UseItemAnim(item, agent);
+
+				if (item.invItemCount < 1)
+				{
+					agent.mainGUI.invInterface.HideDraggedItem();
+					agent.mainGUI.invInterface.HideTarget();
+				}
+			};
 			#endregion
 
 

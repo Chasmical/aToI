@@ -63,9 +63,29 @@ namespace aTonOfItems.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] AmmoBox {
+            get {
+                object obj = ResourceManager.GetObject("AmmoBox", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] CupOfMoltenChocolate {
             get {
                 object obj = ResourceManager.GetObject("CupOfMoltenChocolate", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Grindstone {
+            get {
+                object obj = ResourceManager.GetObject("Grindstone", resourceCulture);
                 return ((byte[])(obj));
             }
         }

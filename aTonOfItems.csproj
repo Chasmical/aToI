@@ -74,7 +74,9 @@
   <ItemGroup>
     <None Include="README-ru.md" />
     <None Include="README.md" />
+    <None Include="Resources\AmmoBox.bin" />
     <None Include="Resources\CupOfMoltenChocolate.bin" />
+    <None Include="Resources\Grindstone.bin" />
     <None Include="Resources\JokeBook.bin" />
     <None Include="Resources\PortableAmmoDispenser.bin" />
     <None Include="Resources\QuantumFud.bin" />
