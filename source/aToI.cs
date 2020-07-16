@@ -287,12 +287,12 @@ namespace aTonOfItems
 			};
 			#endregion
 
-			#region Disguise Kit
-			Sprite sprite5 = RogueUtilities.ConvertToSprite(Properties.Resources.DisguiseKit);
-			CustomItem identityStealer = RogueLibs.SetItem("DisguiseKit", sprite5,
-				new CustomNameInfo("DisguiseKit",
+			#region SPYTRON 3000
+			Sprite sprite5 = RogueUtilities.ConvertToSprite(Properties.Resources.SPYTRON3000);
+			CustomItem identityStealer = RogueLibs.SetItem("SPYTRON3000", sprite5,
+				new CustomNameInfo("SPYTRON 3000",
 					null, null, null, null,
-					"Набор маскировки",
+					"Шпионотрон 3000",
 					null, null),
 				new CustomNameInfo("Always wanted to be someone else? Now you can!",
 					null, null, null, null,

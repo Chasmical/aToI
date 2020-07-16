@@ -36,8 +36,8 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 > *[! ! ! yes it is#8877 11.07.2020 2:03]*<br/>
 > /suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things)<br/>
 
-![Image](./img/DisguiseKit.png)
-● **Disguise Kit** - Always wanted to be someone else? Now you can! *(disguises you as the selected character)*<br/>
+![Image](./img/SPYTRON3000.png)
+● **SPYTRON 3000** - Always wanted to be someone else? Now you can! *(disguises you as the selected character)*<br/>
 Currently doesn't work on colors, so you won't be able to fool other players.
 ***
 > *[Milky_Guy#4305 12.07.20 9:54] (translated from russian)*<br/>
