@@ -103,6 +103,16 @@ namespace aTonOfItems.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] MindControlGrenade {
+            get {
+                object obj = ResourceManager.GetObject("MindControlGrenade", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] PortableAmmoDispenser {
             get {
                 object obj = ResourceManager.GetObject("PortableAmmoDispenser", resourceCulture);

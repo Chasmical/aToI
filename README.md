@@ -83,8 +83,12 @@ The snap particle effect might be a problem.<br/>
 
 I'll make this one later, probably after I add "doing something" feature in RogueLibs.<br/>
 ***
-> *[Milky_Guy#4305 12.07.20 11:29] (translated from russian)*<br/>
+> *[Milky_Guy#4305 12.07.20 11:29 + 16.07.20 16:03] (translated from russian)*<br/>
 > *what about grenades for alien beings*<br/>
+> *throw them and there's control*<br/>
+
+![Image](./img/MindControlGrenade.png)
+● **Mind Control Grenade** - ...<br/>
 ***
 > *[Abbysssal#2020 12.07.20 11:30] (translated from russian)*<br/>
 > *stop deleting messages, qenapp*<br/>
@@ -171,8 +175,22 @@ Almost done, I just need to make it so that people get angry when the player hit
 > ![Image](https://cdn.discordapp.com/attachments/433748059172896769/733343317949022288/dysamljwuyb41.png)<br/>
 > banana peel gun<br/>
 ***
+> *[ComputerHamster#4423 16.07.20 21:10]*<br/>
+> В игре ведь есть возможность заставить игрока терять опыт (перк "Закон").  Предлагаю добавить вещи, позволяющие этот опыт тратить для разных магических эффектов. <br/>
+> * Волшебная обойма для огнестрельного оружия, которая, будучи присоединенной к оружию, если патроны кончаются, полностью восстанавливает боезапас, но тратит на это опыт. <br/>
+> * Волшебная шляпа, позволяющая класть в нее вещь и доставать оттуда ее копии в обмен на опыт, количество которого зависит от цены вещи.<br/>
+> * Бесконечная магическая бутылка алкоголя. Поскольку алкоголь в игре имеет исцеляющий эффект, она будет лечить персонажа, но, опять-таки, тратить его опыт на создание этого алкоголя.<br/>
+> * Свиток зачарования оружия ближнего боя. Ближнебойное оружие, на который его применили, вместо прочности расходует пропорциональное количество опыта. А еще бьет призраков, поскольку оно становится волшебным.<br/>
+> * Книга истинного воскрешения. Воскрешает мертвых без превращения в зомби, будучи примененной над трупом. Тратит опыт игрока пропорционально количеству здоровья у воскрешенного. А еще улучшается отношение воскрешенного к игроку - нейтралы и ниже становятся Friendly, а остальные начинают относиться к персонажу на один пункт лучше, чем относились до смерти.<br/>
+> * Мантия мага. Сильно снижает получаемый урон, но при этом при получении урона тратит опыт.<br/>
 
-
+(that's a lot to translate)<br/>
+Well, that's an idea for a whole separate mod.<br/>
+***
+> *[GenEric (voiced by Vince Offer)#1897 17.07.20 16:28]*<br/>
+> ok what about a item taht lets you do the werewolf lunge?<br/>
+> like a "combat guide"<br/>
+***
 
 
 

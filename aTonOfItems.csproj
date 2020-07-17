@@ -76,6 +76,7 @@
     <None Include="README.md" />
     <None Include="Resources\AmmoBox.bin" />
     <None Include="Resources\CupOfMoltenChocolate.bin" />
+    <None Include="Resources\MindControlGrenade.bin" />
     <None Include="Resources\SPYTRON3000.bin" />
     <None Include="Resources\Grindstone.bin" />
     <None Include="Resources\JokeBook.bin" />
