@@ -187,13 +187,16 @@ Almost done, I just need to make it so that people get angry when the player hit
 (that's a lot to translate)<br/>
 Well, that's an idea for a whole separate mod.<br/>
 ***
+> *[Charlie 8-bit My Finger!#3458 17.07.20 13:55]*<br/>
+> Here's a new item idea: The Portable Anvil! It lets you get your melee weapons to 150 durability with it in your inventory when you collect duplicates, instead of the max 100.<br/>
+***
 > *[GenEric (voiced by Vince Offer)#1897 17.07.20 16:28]*<br/>
 > ok what about a item taht lets you do the werewolf lunge?<br/>
 > like a "combat guide"<br/>
 ***
-
-
-
+> *[! ! ! ! I am very cool#8877 17.07.20 17:28]*<br/>
+> zip tie, basically the cops handcuffs<br/>
+***
 
 
 
