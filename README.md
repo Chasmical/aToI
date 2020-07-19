@@ -197,12 +197,21 @@ Well, that's an idea for a whole separate mod.<br/>
 > *[! ! ! ! I am very cool#8877 17.07.20 17:28]*<br/>
 > zip tie, basically the cops handcuffs<br/>
 ***
-
-
-
-
-
-
+> *[Rauch#3108 18.07.20 11:34] (translated from russian)*<br/>
+> *What about a grenade/usb, that will make nearby/selected robot alligned, even if they are hostile (except for the killer robot)*<br/>
+***
+> *[babzoid1#7584 18.07.20 12:46] (translated from russian)*<br/>
+> *Poké Ball. With some chance you can make someone alligned, but they will be small, like a gorilla from the barrel (or a shapeshifter)*<br/>
+***
+> *[кто-то#6758 19.07.20 7:23] (translated from russian)*<br/>
+> *ability idea*<br/>
+> *drug dealer*<br/>
+> *on rmb with charge and damage like zombie positive effect*<br/>
+> *like -5 hp but +strength*<br/>
+***
+> *[tacopowered#1122 19.07.20 6:20]*<br/>
+> is it possible to buff shotguns compared to other guns? slightly raise ammo capacity or change bullet type to revolver? Feels like itd be more useful that way.<br/>
+***
 
 
 
