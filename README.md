@@ -47,12 +47,6 @@ Currently doesn't work on colors, so you won't be able to fool other players.
 ● **Cup of Molten Chocolate** - That's a nice drink you're enjoying there... AAAAAAAAAAAAAAAAAAAAH! *(just like in The Escapists 1/2, knocks people out instantly)*<br/>
 The only problem is that when you hold the Cup of Molten Chocolate, your character will be seen holding a Water Pistol.<br/>
 ***
-> *[Milky_Guy#4305 12.07.20 10:08] (translated from russian)*<br/>
-> *what about thanas' glove*<br/>
-> *particularly the snap*<br/>
-
-The snap particle effect might be a problem.<br/>
-***
 > *[яQenapp (Билибил)#2445 12.07.20 11:18] (translated from russian)*<br/>
 > *what about a portable ammo dispenser?*<br/>
 > *[Abbysssal#2020 14.07.20 5:52] (translated from russian)*<br/>
@@ -77,33 +71,12 @@ The snap particle effect might be a problem.<br/>
 ![Image](./img/JokeBook.png)
 ● **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*<br/>
 ***
-> *[babzoid1#7584 12.07.20 11:24] (translated from russian)*<br/>
-> *stranglehold/noose/knot (from hitman franchise), to kill silently*<br/>
-> *uses the bar "doing something"*<br/>
-
-I'll make this one later, probably after I add "doing something" feature in RogueLibs.<br/>
-***
 > *[Milky_Guy#4305 12.07.20 11:29 + 16.07.20 16:03] (translated from russian)*<br/>
 > *what about grenades for alien beings*<br/>
 > *throw them and there's control*<br/>
 
 ![Image](./img/MindControlGrenade.png)
 ● **Mind Control Grenade** - ...<br/>
-***
-> *[Abbysssal#2020 12.07.20 11:30] (translated from russian)*<br/>
-> *stop deleting messages, qenapp*<br/>
-> *now I will tell everyone that crossbow from hl2 was my idea*<br/>
-***
-> *[babzoid1#7584 12.07.20 11:31] (translated from russian)*<br/>
-> *harpoon, that pulls people*<br/>
-***
-> *[Milky_Guy#4305 12.07.20 11:32] (translated from russian)*<br/>
-> *throwing knives.*<br/>
-> *I'm high on jojo*<br/>
-> *sorry.*<br/>
-***
-> *[яQenapp (Билибил)#2445 12.07.20 11:33] (translated from russian)*<br/>
-> *portal gun)))) (I know this will be very hard)*<br/>
 ***
 > *[Milky_Guy#4305 12.07.20 11:39] (translated from russian)*<br/>
 > *if there's a window breaker, then there must be a wall breaker.*<br/>
@@ -120,9 +93,6 @@ I'll make this one later, probably after I add "doing something" feature in Rogu
 ***
 > *[babzoid1#7584 12.07.20 18:15] (translated from russian)*<br/>
 > *black phone, that you can use to call assassins to attack a person*<br/>
-***
-> *[A Monster#4621 13.07.20 16:02]*<br/>
-> I have an idea. A new melee weapon called the Phase Sword. It can hit people through walls without breaking the walls (long reach) and damage ghosts.<br/>
 ***
 > *[Milky_Guy#4305 13.07.20 16:53] (translated from russian)*<br/>
 > *what about a zombie grenade*<br/>
@@ -170,11 +140,6 @@ I'll make this one later, probably after I add "doing something" feature in Rogu
 ● **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.<br/>
 Almost done, I just need to make it so that people get angry when the player hits them.<br/>
 ***
-> *[GenEric (voiced by Vince Offer)#1897 16.07.20 15:24]*<br/>
-> ok abby what about<br/>
-> ![Image](https://cdn.discordapp.com/attachments/433748059172896769/733343317949022288/dysamljwuyb41.png)<br/>
-> banana peel gun<br/>
-***
 > *[ComputerHamster#4423 16.07.20 21:10]*<br/>
 > В игре ведь есть возможность заставить игрока терять опыт (перк "Закон").  Предлагаю добавить вещи, позволяющие этот опыт тратить для разных магических эффектов. <br/>
 > * Волшебная обойма для огнестрельного оружия, которая, будучи присоединенной к оружию, если патроны кончаются, полностью восстанавливает боезапас, но тратит на это опыт. <br/>
@@ -208,9 +173,6 @@ Well, that's an idea for a whole separate mod.<br/>
 > *drug dealer*<br/>
 > *on rmb with charge and damage like zombie positive effect*<br/>
 > *like -5 hp but +strength*<br/>
-***
-> *[tacopowered#1122 19.07.20 6:20]*<br/>
-> is it possible to buff shotguns compared to other guns? slightly raise ammo capacity or change bullet type to revolver? Feels like itd be more useful that way.<br/>
 ***
 
 
