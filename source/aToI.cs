@@ -196,9 +196,23 @@ namespace aTonOfItems
 			};
 			voodooDoll.CombineItem = (item, agent, otherItem, slotNum) =>
 			{
-				if (VoodooCooldowns[item] > 0f) return;
-				Agent target = VoodooUpdateList[item];
+				foreach (var a in VoodooCooldowns)
+				{
+					if (a.Key.invItemID == item.invItemID && a.Value > 0)
+					{
+						return;
 
+					}
+				}
+				Agent target = null;
+				foreach (var a in VoodooUpdateList)
+				{
+					if (a.Key.invItemID == item.invItemID)
+					{
+						target = a.Value;
+
+					}
+				}
 				if (otherItem == item)
 				{
 					item.database.DestroyItem(item);
