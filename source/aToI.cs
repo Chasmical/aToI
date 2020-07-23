@@ -201,7 +201,6 @@ namespace aTonOfItems
 					if (a.Key.invItemID == item.invItemID && a.Value > 0)
 					{
 						return;
-
 					}
 				}
 				Agent target = null;
@@ -210,7 +209,7 @@ namespace aTonOfItems
 					if (a.Key.invItemID == item.invItemID)
 					{
 						target = a.Value;
-
+						break;
 					}
 				}
 				if (otherItem == item)
@@ -224,8 +223,10 @@ namespace aTonOfItems
 
 					item.agent.mainGUI.invInterface.HideDraggedItem();
 					item.agent.mainGUI.invInterface.HideTarget();
+					return;
 				}
-				else if (otherItem.itemType == "WeaponMelee")
+				if (target == null) return;
+				if (otherItem.itemType == "WeaponMelee")
 				{
 					Quaternion rn = UnityEngine.Random.rotation;
 					target.statusEffects.ChangeHealth(-otherItem.meleeDamage / 2, agent);
