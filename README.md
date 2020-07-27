@@ -174,8 +174,9 @@ Well, that's an idea for a whole separate mod.<br/>
 > *on rmb with charge and damage like zombie positive effect*<br/>
 > *like -5 hp but +strength*<br/>
 ***
-
-
+> *[Dapper Gentleman#5990 27.07.20 5:48]*<br/>
+> @Abbysssal you already have one Tf2 refrence in your mod pack, so I propose another one: the piss jar. Throw it down, and when it shatters everyone in a large radius runs away as far as they can from the splatter site. If thrown in property someone owns, that NPC prioritized running over being hostile.<br/>
+***
 
 
 
