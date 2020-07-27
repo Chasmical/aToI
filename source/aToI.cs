@@ -196,9 +196,22 @@ namespace aTonOfItems
 			};
 			voodooDoll.CombineItem = (item, agent, otherItem, slotNum) =>
 			{
-				if (VoodooCooldowns[item] > 0f) return;
-				Agent target = VoodooUpdateList[item];
-
+				foreach (var a in VoodooCooldowns)
+				{
+					if (a.Key.invItemID == item.invItemID && a.Value > 0)
+					{
+						return;
+					}
+				}
+				Agent target = null;
+				foreach (var a in VoodooUpdateList)
+				{
+					if (a.Key.invItemID == item.invItemID)
+					{
+						target = a.Value;
+						break;
+					}
+				}
 				if (otherItem == item)
 				{
 					item.database.DestroyItem(item);
@@ -210,8 +223,10 @@ namespace aTonOfItems
 
 					item.agent.mainGUI.invInterface.HideDraggedItem();
 					item.agent.mainGUI.invInterface.HideTarget();
+					return;
 				}
-				else if (otherItem.itemType == "WeaponMelee")
+				if (target == null) return;
+				if (otherItem.itemType == "WeaponMelee")
 				{
 					Quaternion rn = UnityEngine.Random.rotation;
 					target.statusEffects.ChangeHealth(-otherItem.meleeDamage / 2, agent);
