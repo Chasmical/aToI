@@ -7,6 +7,8 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 <th><a href="https://github.com/Abbysssal/aToI/blob/master/README-ru.md">Russian</a></th>
 </table>
 
+### Кстати, не стесняйтесь использовать эти идеи в своих модах, так как я скорее всего больше не буду обновлять aToI ###
+
 ***
 > *[Milky_Guy#4305 11.07.20 19:27]*<br/>
 > бесконечный хавчик, востанавливает 1 хп за прием.<br/>

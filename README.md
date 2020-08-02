@@ -7,6 +7,8 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 <th><a href="https://github.com/Abbysssal/aToI/blob/master/README-ru.md">Russian</a></th>
 </table>
 
+### By they way, feel free to use these ideas in your mods, because I'm probably not going to update aToI anymore ###
+
 ***
 > *[Milky_Guy#4305 11.07.20 19:27] (translated from russian)*<br/>
 > *infinite fud, restores 1 hp per use*<br/>
