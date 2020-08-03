@@ -182,5 +182,54 @@ Well, that's an idea for a whole separate mod.<br/>
 > *[A Monster#4621 29.07.20 22:21]*<br/>
 > how about a rock proccessor? Insert almost any item and turn it into a rock?<br/>
 ***
+> *[GenEric#1897 03.08.20 2:00]*<br/>
+> my suggestions for new items:<br/>
+> mighty sword:<br/>
+> desc: look guys its the [Excalibur Bootleg blade of the Resistence]<br/>
+> how to get: get it bia diping a sword in the fountain<br/>
+> what it does: like a sword but it does 17 damage and can hit ghost also it shines (and when you name it in the chat the text of the name apears orange)<br/>
 
-
+> its like the blesed sword in nethack<br/>
+> thats why you get it by diping it on a foun tain<br/>
+***
+> *[GenEric#1897 03.08.20 2:00]*<br/>
+> polymorph book:<br/>
+> desc: ever wanted to become a powerfull creature at the cost of you sanity? no? well then just use it on you enemies!<br/>
+> how to get:same as other items (expensive)<br/>
+> what it does:<br/>
+> -on enemy: it becomes a werewolf,gorilla,or vampire and gives enraged (gets consumed after 1 use)<br/>
+> -on you: transforms you in a vampire gorilla, or vampire for 25 seconds (it gets consumed after 1 use)<br/>
+***
+> *[GenEric#1897 03.08.20 2:01]*<br/>
+> unholy-begone book:<br/>
+> desc: an autografiet vercion of the literature clasic "ghost gibbers" its a silver medal hit!<br/>
+> how to get:same as normal items (regular price)<br/>
+> what it does: it kills undead creatures on screen it also hurts you a little if yo are undead (1/4 of you heath)(consumed after one use)<br/>
+***
+> *[GenEric#1897 03.08.20 2:02]*<br/>
+> DEATH DIARY<br/>
+> desc:its writen in ALL CAPS seems like someone was serius.<br/>
+> how to get:same as normal(REALLLY EXPENSIVE)<br/>
+> WHAT IT DOES: when activated it higlights all of the npc on screen click on the one that you want to elimonate if theres epople of the same class as him they will also be gibbed if oyu are of the same class you will be gibbed an "genocide" will apears as couse of dead(consumed after one use).<br/>
+***
+> *[GenEric#1897 03.08.20 2:02]*<br/>
+> stone to live book (for dummies)<br/>
+> how to get:like normal items<br/>
+> what it does: transforms stones into meatballs,teh second effect is special first we gotta talk about...<br/>
+***
+> *[GenEric#1897 03.08.20 2:04]*<br/>
+> (class name) figurine:<br/>
+> desc: a piece of ancient art....or maybe just a colecsionist toy.<br/>
+> how to get: random loot item<br/>
+> what it does: you can sell it to scientist and hackers for a 50 of gold<br/>
+> when interacted with stone to live book:you get a mini vercion of the npc as a weak follower<br/>
+***
+> *[GenEric#1897 03.08.20 2:07]*<br/>
+> lastly: meatball<br/>
+> desc: tastes like mind screw<br/>
+> how to get:use the stone to live in a rock<br/>
+> what it does:gives 15+ hp<br/>
+***
+> *[GenEric#1897 03.08.20 4:04]*<br/>
+> ![Suggested items art](https://cdn.discordapp.com/attachments/187611778157379584/739695152376971265/20200802_185333.jpg)
+***
