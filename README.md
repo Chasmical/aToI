@@ -50,12 +50,27 @@ There are *tons* of suggestions from English and Russian parts of the Streets of
 ### Feel free to use these ideas in your mods, because I'm probably not going to update aToI anymore ###
 
 ***
-> *[Milky_Guy#4305 11.07.20 19:27] (translated from russian)*<br/>
-> *infinite fud, restores 1 hp per use*<br/>
-> *obtaining method (if possible) - throw fud into fire*<br/>
-> *and also it is infiinte :thinkingSmart:*<br/>
-> *and infinite it is :thinking\~1:*<br/>
-> *give it a try?*<br/>
+<details>
+  <summary>Suggestion (translated from russian)</summary>
+  <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+    <span title="бесконечный хавчик, востанавливает 1 хп за прием.">infinite fud, restores 1 hp per use.</span><br/>
+    <span title="способ получения (если можно) бросить хавчик в огонь.">obtaining method (if possible) - throw fud into fire.</span><br/>
+    <span title="а также он бесконечный :thinkingSmart:">and also it is infiinte :thinkingSmart:</span><br/>
+    <span title="и еще бесконечный он :thinking~1:">and infinite it is :thinking~1:</span><br/>
+      <span title="попробуешь абба?">give it a try?</span>
+  </p></blockquote>
+  <footer>— Milky_Guy#4305 11.07.20 19:27</footer>
+</details><details>
+  <summary>Suggestion (original)</summary>
+  <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+    <span title="infinite fud, restores 1 hp per use.">бесконечный хавчик, востанавливает 1 хп за прием.</span><br/>
+    <span title="obtaining method (if possible) - throw fud into fire.">способ получения (если можно) бросить хавчик в огонь.</span><br/>
+    <span title="and also it is infiinte :thinkingSmart:">а также он бесконечный :thinkingSmart:</span><br/>
+    <span title="and infinite it is :thinking~1:">и еще бесконечный он :thinking~1:</span><br/>
+    <span title="give it a try?">попробуешь абба?</span>
+  </p></blockquote>
+  <footer>— Milky_Guy#4305 11.07.20 19:27</footer>
+</details>
 
 ![Image](./img/QuantumFud.png)
 ● **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *(restores 1 hp per use, infinite)*<br/>
