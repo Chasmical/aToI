@@ -58,9 +58,7 @@
     <None Include="Resources\VoodooInactive.bin" />
     <None Include="Resources\WildBypasser.bin" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="md\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
