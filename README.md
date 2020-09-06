@@ -321,7 +321,7 @@
 </tr>
 </table>
 
-## Suggestions *(Soon!)* ##
+## Suggestions ##
 <details><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843"><p>
 <span title="а че насчет гранат для инопланетных существ.">what about grenades for alien beings.</span><br/>

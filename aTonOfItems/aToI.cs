@@ -652,7 +652,7 @@ namespace aTonOfItems
 			};
 			#endregion
 
-
+			
 
 
 
@@ -706,10 +706,11 @@ namespace aTonOfItems
 			return true;
 		}
 
-		#region Voodoo Checks
+		public void Update() => VoodooCheck();
+
 		public static Dictionary<InvItem, Agent> VoodooUpdateList { get; set; }
 		public static Dictionary<InvItem, float> VoodooCooldowns { get; set; }
-		public void Update()
+		public void VoodooCheck()
 		{
 			List<InvItem> removal = new List<InvItem>();
 			Dictionary<InvItem, float> newDictionary = new Dictionary<InvItem, float>();
@@ -743,6 +744,5 @@ namespace aTonOfItems
 				VoodooCooldowns.Remove(item);
 			}
 		}
-		#endregion
 	}
 }
