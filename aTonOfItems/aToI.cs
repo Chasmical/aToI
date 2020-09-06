@@ -60,12 +60,10 @@ namespace aTonOfItems
 					agent.SayDialogue("HealthFullCantUseItem");
 				else
 				{
-					int num23 = new ItemFunctions().DetermineHealthChange(item, agent);
-					agent.statusEffects.ChangeHealth(num23);
+					int heal = new ItemFunctions().DetermineHealthChange(item, agent);
+					agent.statusEffects.ChangeHealth(heal);
 					if (agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth") || agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth2"))
-					{
-						new ItemFunctions().GiveFollowersHealth(agent, num23);
-					}
+						new ItemFunctions().GiveFollowersHealth(agent, heal);
 					item.gc.audioHandler.Play(agent, "UseFood");
 					new ItemFunctions().UseItemAnim(item, agent);
 					return;

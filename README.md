@@ -64,6 +64,47 @@
 
 ![icon](./img/QuantumFud.png) **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *(restores 1 hp per use, infinite)*
 
+<table>
+<tr>
+  <th>Icon</th>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+  <th>English suggestion</th>
+  <th>Original suggestion</th>
+</tr>
+<tr>
+  <td><img src="./img/QuantumFud.png"/></td>
+  <td>Quantum Fud</td>
+  <td>A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact.</td>
+  <td>10</td>
+  <td>10</td>
+  <td>10</td>
+  <td><details><summary>Suggestion (translated from russian)</summary>
+<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+<span title="бесконечный хавчик, востанавливает 1 хп за прием.">infinite fud, restores 1 hp per use.</span><br/>
+<span title="способ получения (если можно) бросить хавчик в огонь.">obtaining method (if possible) throw fud into fire.</span><br/>
+<span title="а также он бесконечный :thinkingSmart:">and also it is infininte :thinkingSmart:</span><br/>
+<span title="и еще бесконечный он :thinking~1:">and infinite it is :thinking~1:</span><br/>
+<span title="попробуешь абба?">give it a try?</span>
+</p></blockquote>
+<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737">#sor_chyat (У Старин)</a></footer>
+</details></td>
+  <td><details><summary>Suggestion (original)</summary>
+<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+<span title="infinite fud, restores 1 hp per use.">бесконечный хавчик, востанавливает 1 хп за прием.</span><br/>
+<span title="obtaining method (if possible) throw fud into fire.">способ получения (если можно) бросить хавчик в огонь.</span><br/>
+<span title="and also it is infiinte :thinkingSmart:">а также он бесконечный :thinkingSmart:</span><br/>
+<span title="and infinite it is :thinking~1:">и еще бесконечный он :thinking~1:</span><br/>
+<span title="give it a try?">попробуешь абба?</span>
+</p></blockquote>
+<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737">#sor_chyat (У Старин)</a></footer>
+</details></td>
+</tr>
+</table>
+
 ***
 <details><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543"><p>
