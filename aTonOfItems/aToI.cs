@@ -19,6 +19,8 @@ namespace aTonOfItems
 			RoguePatcher patcher = new RoguePatcher(this, GetType());
 
 			#region Quantum Fud
+			QuantumFudCooldowns = new Dictionary<InvItem, float>();
+
 			Sprite sprite1 = RogueUtilities.ConvertToSprite(Properties.Resources.QuantumFud);
 			CustomItem quantumFud = RogueLibs.CreateCustomItem("QuantumFud", sprite1, false,
 				new CustomNameInfo("Quantum Fud",
@@ -59,12 +61,22 @@ namespace aTonOfItems
 					agent.SayDialogue("HealthFullCantUseItem");
 				else
 				{
-					int heal = new ItemFunctions().DetermineHealthChange(item, agent);
-					agent.statusEffects.ChangeHealth(heal);
-					if (agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth") || agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth2"))
-						new ItemFunctions().GiveFollowersHealth(agent, heal);
-					item.gc.audioHandler.Play(agent, "UseFood");
-					new ItemFunctions().UseItemAnim(item, agent);
+					if (!QuantumFudCooldowns.TryGetValue(item, out float cd))
+					{
+						QuantumFudCooldowns.Add(item, 0f);
+						cd = 0f;
+					}
+					if (cd == 0f)
+					{
+						int heal = new ItemFunctions().DetermineHealthChange(item, agent);
+						agent.statusEffects.ChangeHealth(heal);
+						if (agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth") || agent.statusEffects.hasTrait("HealthItemsGiveFollowersExtraHealth2"))
+							new ItemFunctions().GiveFollowersHealth(agent, heal);
+						item.gc.audioHandler.Play(agent, "UseFood");
+						new ItemFunctions().UseItemAnim(item, agent);
+
+						QuantumFudCooldowns[item] = 0.5f;
+					}
 					return;
 				}
 				item.gc.audioHandler.Play(agent, "CantDo");
@@ -643,16 +655,30 @@ namespace aTonOfItems
 				otherItem.contents.Add("Sharpened:3");
 				item.database.SubtractFromItemCount(item, 1);
 				new ItemFunctions().UseItemAnim(item, agent);
-
-				if (item.invItemCount < 1)
-				{
-					agent.mainGUI.invInterface.HideDraggedItem();
-					agent.mainGUI.invInterface.HideTarget();
-				}
 			};
+
+			RogueLibs.CreateCustomName("Sharpened:1", "Item",
+				new CustomNameInfo("Sharpened (1)",
+				null, null, null, null,
+				"Заточенный (1)",
+				null, null));
+			RogueLibs.CreateCustomName("Sharpened:2", "Item",
+				new CustomNameInfo("Sharpened (2)",
+				null, null, null, null,
+				"Заточенный (2)",
+				null, null));
+			RogueLibs.CreateCustomName("Sharpened:3", "Item",
+				new CustomNameInfo("Sharpened (3)",
+				null, null, null, null,
+				"Заточенный (3)",
+				null, null));
 			#endregion
 
 			
+
+
+
+
 
 
 
@@ -706,26 +732,23 @@ namespace aTonOfItems
 			return true;
 		}
 
-		public void Update() => VoodooCheck();
+		public void FixedUpdate()
+		{
+			VoodooCheck();
+			QuantumFudCheck();
+		}
 
 		public static Dictionary<InvItem, Agent> VoodooUpdateList { get; set; }
 		public static Dictionary<InvItem, float> VoodooCooldowns { get; set; }
 		public void VoodooCheck()
 		{
-			List<InvItem> removal = new List<InvItem>();
-			Dictionary<InvItem, float> newDictionary = new Dictionary<InvItem, float>();
-
 			foreach (KeyValuePair<InvItem, float> pair in VoodooCooldowns)
-				newDictionary.Add(pair.Key, Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f));
-			VoodooCooldowns = newDictionary;
+				VoodooCooldowns[pair.Key] = Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f);
+
+			List<InvItem> removal = new List<InvItem>();
 			foreach (KeyValuePair<InvItem, Agent> pair in VoodooUpdateList)
 			{
 				InvItem item = pair.Key;
-				if (pair.Key == null || pair.Value == null)
-				{
-					removal.Add(item);
-					continue;
-				}
 				if (pair.Value.dead)
 				{
 					item.database.DestroyItem(item);
@@ -743,6 +766,13 @@ namespace aTonOfItems
 				VoodooUpdateList.Remove(item);
 				VoodooCooldowns.Remove(item);
 			}
+		}
+
+		public static Dictionary<InvItem, float> QuantumFudCooldowns { get; set; }
+		public void QuantumFudCheck()
+		{
+			foreach (KeyValuePair<InvItem, float> pair in QuantumFudCooldowns)
+				QuantumFudCooldowns[pair.Key] = Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f);
 		}
 	}
 }
