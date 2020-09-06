@@ -40,7 +40,6 @@ namespace aTonOfItems
 					item.goesInToolbar = true;
 				});
 			quantumFud.Prerequisites.Add("FoodProcessor");
-			quantumFud.Prerequisites.Add("Fud");
 
 			quantumFud.UnlockCost = 10;
 			quantumFud.CostInCharacterCreation = 10;
@@ -90,16 +89,16 @@ namespace aTonOfItems
 					item.Categories.Add("Usable");
 					item.Categories.Add("Stealth");
 					item.itemValue = 60;
-					item.initCount = 2;
-					item.rewardCount = 3;
+					item.initCount = 1;
+					item.rewardCount = 1;
 					item.stackable = true;
 					item.goesInToolbar = true;
 				});
 			wildBypasser.Prerequisites.Add("WallBypasser");
 
 			wildBypasser.UnlockCost = 10;
-			wildBypasser.CostInCharacterCreation = 5;
-			wildBypasser.CostInLoadout = 5;
+			wildBypasser.CostInCharacterCreation = 2;
+			wildBypasser.CostInLoadout = 2;
 
 			wildBypasser.UseItem = (item, agent) =>
 			{
@@ -157,9 +156,11 @@ namespace aTonOfItems
 					item.hasCharges = true;
 					item.goesInToolbar = true;
 				});
+			blankVoodooDoll.Prerequisites.Add("Necronomicon");
+
 			blankVoodooDoll.UnlockCost = 10;
-			blankVoodooDoll.CostInCharacterCreation = 10;
-			blankVoodooDoll.CostInLoadout = 5;
+			blankVoodooDoll.CostInCharacterCreation = 4;
+			blankVoodooDoll.CostInLoadout = 4;
 
 			blankVoodooDoll.TargetFilter = (item, agent, obj) => obj is Agent a && !a.dead;
 			blankVoodooDoll.TargetObject = (item, agent, obj) =>
@@ -199,9 +200,7 @@ namespace aTonOfItems
 					item.stackable = true;
 					item.hasCharges = true;
 				});
-			voodooDoll.Available = false;
-			voodooDoll.AvailableInCharacterCreation = false;
-			voodooDoll.AvailableInItemTeleporter = false;
+			voodooDoll.Available = voodooDoll.AvailableInCharacterCreation = voodooDoll.AvailableInItemTeleporter = false;
 
 			voodooDoll.CombineFilter = (item, agent, otherItem) =>
 			{
@@ -338,13 +337,11 @@ namespace aTonOfItems
 					item.stackable = true;
 					item.goesInToolbar = true;
 				});
-			spytron3000.Prerequisites.Add("Hypnotizer2");
-			spytron3000.Prerequisites.Add("Haterator");
-			spytron3000.Prerequisites.Add("MemoryEraser");
+			spytron3000.Prerequisites.Add("BodySwapper");
 
 			spytron3000.UnlockCost = 10;
-			spytron3000.CostInCharacterCreation = 5;
-			spytron3000.CostInLoadout = 3;
+			spytron3000.CostInCharacterCreation = 3;
+			spytron3000.CostInLoadout = 2;
 
 			spytron3000.TargetFilter = (item, agent, obj) => obj is Agent a && !a.dead && a != agent;
 			spytron3000.TargetObject = (item, agent, obj) =>
@@ -412,12 +409,11 @@ namespace aTonOfItems
 					item.meleeDamage = 1;
 					item.hitSoundType = "Normal";
 				});
-			cupOfMoltenChocolate.Prerequisites.Add("Sledgehammer");
-			cupOfMoltenChocolate.Prerequisites.Add("BraceletStrength");
+			cupOfMoltenChocolate.Prerequisites.Add("Flamethrower");
 
 			cupOfMoltenChocolate.UnlockCost = 10;
-			cupOfMoltenChocolate.CostInCharacterCreation = 5;
-			cupOfMoltenChocolate.CostInLoadout = 5;
+			cupOfMoltenChocolate.CostInCharacterCreation = 2;
+			cupOfMoltenChocolate.CostInLoadout = 2;
 
 			patcher.Prefix(typeof(PlayfieldObject), "FindDamage", new Type[] { typeof(PlayfieldObject), typeof(bool), typeof(bool), typeof(bool) });
 			#endregion
@@ -443,7 +439,6 @@ namespace aTonOfItems
 					item.initCount = 1;
 					item.rewardCount = 1;
 				});
-			portableAmmoDispenser.Prerequisites.Add("AmmoCapacityMod");
 			portableAmmoDispenser.Prerequisites.Add("KillProfiterAmmo");
 
 			portableAmmoDispenser.UnlockCost = 10;
@@ -523,7 +518,7 @@ namespace aTonOfItems
 					item.Categories.Add("Guns");
 					item.itemValue = 4;
 					item.initCount = 100;
-					item.rewardCount = 100;
+					item.rewardCount = 200;
 					item.hasCharges = true;
 					item.stackable = true;
 				});
@@ -578,9 +573,9 @@ namespace aTonOfItems
 			CustomItem jokeBook = RogueLibs.CreateCustomItem("JokeBook", sprite9, false,
 				new CustomNameInfo("Joke Book",
 				null, null, null, null,
-				"Always wanted to be a Comedian? Now you can! (kind of)",
+				"Сборник шуток",
 				null, null),
-				new CustomNameInfo("Сборник шуток",
+				new CustomNameInfo("Always wanted to be a Comedian? Now you can! (kind of)",
 				null, null, null, null,
 				"Всегда хотели быть Комиком? Теперь вы можете! (ну, типа)",
 				null, null),
@@ -616,9 +611,9 @@ namespace aTonOfItems
 			#region Grindstone
 			Sprite sprite10 = RogueUtilities.ConvertToSprite(Properties.Resources.Grindstone);
 			CustomItem grindstone = RogueLibs.CreateCustomItem("Grindstone", sprite10, false,
-				new CustomNameInfo("Grindstone WIP",
+				new CustomNameInfo("Grindstone",
 				null, null, null, null,
-				"Точильный камень WIP",
+				"Точильный камень",
 				null, null),
 				new CustomNameInfo("Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.",
 				null, null, null, null,
@@ -637,7 +632,6 @@ namespace aTonOfItems
 					item.stackable = true;
 				});
 			grindstone.Prerequisites.Add("MeleeDurabilityDoubler");
-			grindstone.Prerequisites.Add("MeleeLastLonger");
 
 			grindstone.UnlockCost = 10;
 			grindstone.CostInCharacterCreation = 5;
@@ -664,7 +658,6 @@ namespace aTonOfItems
 
 
 		}
-
 
 		public static bool PlayfieldObject_FindDamage(PlayfieldObject __instance, PlayfieldObject damagerObject, ref bool generic)
 		{

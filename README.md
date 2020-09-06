@@ -62,23 +62,17 @@
 <footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737">#sor_chyat (У Старин)</a></footer>
 </details>
 
-![icon](./img/QuantumFud.png) **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *()*
+![icon](./img/QuantumFud.png) **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *(restores 1 hp per use, infinite)*
 
 <table>
 <tr>
-  <th>Icon</th>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Remarks</th>
+  <th>Requirements</th>
   <th>Unlock Cost</th>
   <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
   <th>Loadout Cost</th>
 </tr>
 <tr>
-  <td><img src="./img/QuantumFud.png"/></td>
-  <td>Quantum Fud</td>
-  <td>A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact.</td>
-  <td>Restores 1 hp per use, infinite</td>
+  <td>Fud Processor</td>
   <td>10</td>
   <td>10</td>
   <td>10</td>
@@ -103,6 +97,21 @@
 
 ![icon](./img/WildBypasser.png) **Wild Bypasser** - Warps you in the direction you're facing. Teleports through any amount of walls. *(works like Wall Bypasser, but teleports through any amount of walls)*
 
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Wall Bypasser</td>
+  <td>10</td>
+  <td>2</td>
+  <td>2</td>
+</tr>
+</table>
+
 ***
 <details><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574"><p>
@@ -121,6 +130,21 @@
 
 ![icon](./img/Voodoo.png) **Bound Voodoo Doll** - Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to remove the bond. *(combining with melee weapons deals some damage to the victim, ranged weapons - spawns the bullet/projectile into the victim, consumables - forces the victim to use that consumable)*
 
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Necronomicon</td>
+  <td>10</td>
+  <td>4</td>
+  <td>4</td>
+</tr>
+</table>
+
 ***
 <details><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/453256236461457409/743669131924209685"><p>
@@ -130,6 +154,21 @@
 </details>
 
 ![icon](./img/SPYTRON3000.png) **SPYTRON 3000** - Always wanted to be someone else? Now you can! *(disguises you as the selected character, currently doesn't work on colors)*
+
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Body Swapper</td>
+  <td>10</td>
+  <td>3</td>
+  <td>2</td>
+</tr>
+</table>
 
 ***
 <details><summary>Suggestion (translated from russian)</summary>
@@ -147,6 +186,21 @@
 
 ![icon](./img/CupOfMoltenChocolate.png) **Cup of Molten Chocolate** - That's a nice drink you're enjoying there... AAAAAAAAAAAAAAAAAAAAH! *(just like in The Escapists 1/2, knocks people out instantly)*
 
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Flamethrower</td>
+  <td>10</td>
+  <td>2</td>
+  <td>2</td>
+</tr>
+</table>
+
 ***
 <details><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564"><p>
@@ -163,7 +217,37 @@
 
 ![icon](./img/PortableAmmoDispenser.png) **Portable Ammo Dispenser** - Use it to refill your ranged weapons' ammo. For money, of course. *(works almost like the regular Ammo Dispenser, but without the extra cost per floor)*
 
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Kill Ammunizer</td>
+  <td>10</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+</table>
+
 ![icon](./img/AmmoBox.png) **Ammo Box** - Combine with any refillable weapon to refill it. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*
+
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Portable Ammo Dispenser</td>
+  <td>10</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+</table>
 
 ***
 <details><summary>Suggestion (translated from russian)</summary>
@@ -189,6 +273,21 @@
 
 ![icon](./img/JokeBook.png) **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*
 
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Comedian's Big Quest</td>
+  <td>10</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+</table>
+
 ***
 <details><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571"><p>
@@ -205,7 +304,22 @@
 <footer>— кто-то#6758, 14.07.20 8:24, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571">#sor_chyat (У Старин)</a></footer>
 </details>
 
-![icon](./img/Grindstone.png) **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects. *(almost done, I just need to make it so that people get angry when the player hits them)*
+![icon](./img/Grindstone.png) **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.
+
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Melee Durability Spray</td>
+  <td>10</td>
+  <td>5</td>
+  <td>5</td>
+</tr>
+</table>
 
 ## Suggestions *(Soon!)* ##
 <details><summary>Suggestion (translated from russian)</summary>
