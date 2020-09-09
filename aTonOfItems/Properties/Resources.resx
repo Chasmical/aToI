@@ -142,6 +142,9 @@
   <data name="SPYTRON3000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SPYTRON3000.bin;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Toolkit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toolkit.bin;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="Voodoo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Voodoo.bin;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>

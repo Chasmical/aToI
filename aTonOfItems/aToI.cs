@@ -12,7 +12,7 @@ namespace aTonOfItems
 	{
 		public const string pluginGuid = "abbysssal.streetsofrogue.atoi";
 		public const string pluginName = "a Ton of Items";
-		public const string pluginVersion = "1.0";
+		public const string pluginVersion = "0.2";
 
 		public void Awake()
 		{
@@ -21,8 +21,8 @@ namespace aTonOfItems
 			#region Quantum Fud
 			QuantumFudCooldowns = new Dictionary<InvItem, float>();
 
-			Sprite sprite1 = RogueUtilities.ConvertToSprite(Properties.Resources.QuantumFud);
-			CustomItem quantumFud = RogueLibs.CreateCustomItem("QuantumFud", sprite1, false,
+			Sprite sprite = RogueUtilities.ConvertToSprite(Properties.Resources.QuantumFud);
+			CustomItem quantumFud = RogueLibs.CreateCustomItem("QuantumFud", sprite, false,
 				new CustomNameInfo("Quantum Fud",
 					null, null, null, null,
 					"Квантовый хафчик",
@@ -84,8 +84,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region Wild Bypasser
-			Sprite sprite2 = RogueUtilities.ConvertToSprite(Properties.Resources.WildBypasser);
-			CustomItem wildBypasser = RogueLibs.CreateCustomItem("WildBypasser", sprite2, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.WildBypasser);
+			CustomItem wildBypasser = RogueLibs.CreateCustomItem("WildBypasser", sprite, false,
 				new CustomNameInfo("Wild Bypasser",
 					null, null, null, null,
 					"Универсальный проход сквозь стены",
@@ -145,8 +145,8 @@ namespace aTonOfItems
 			VoodooCooldowns = new Dictionary<InvItem, float>();
 			VoodooUpdateList = new Dictionary<InvItem, Agent>();
 			
-			Sprite sprite3 = RogueUtilities.ConvertToSprite(Properties.Resources.VoodooInactive);
-			CustomItem blankVoodooDoll = RogueLibs.CreateCustomItem("BlankVoodooDoll", sprite3, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.VoodooInactive);
+			CustomItem blankVoodooDoll = RogueLibs.CreateCustomItem("BlankVoodooDoll", sprite, false,
 				new CustomNameInfo("Blank Voodoo Doll",
 					null, null, null, null,
 					"Непривязанная кукла Вуду",
@@ -190,13 +190,13 @@ namespace aTonOfItems
 				"Привязать",
 				null, null));
 
-			Sprite sprite4 = RogueUtilities.ConvertToSprite(Properties.Resources.Voodoo);
-			CustomItem voodooDoll = RogueLibs.CreateCustomItem("VoodooDoll2", sprite4, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.Voodoo);
+			CustomItem voodooDoll = RogueLibs.CreateCustomItem("VoodooDoll2", sprite, false,
 				new CustomNameInfo("Voodoo Doll",
 					null, null, null, null,
 					"Кукла Вуду",
 					null, null),
-				new CustomNameInfo("Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to remove the bond.",
+				new CustomNameInfo("Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to unbind.",
 					null, null, null, null,
 					"Объедините куклу с любым оружием/расходником для нанесения урона/эффектов жертве. Объедините с самой собой, чтобы убрать связь.",
 					null, null),
@@ -326,8 +326,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region SPYTRON 3000
-			Sprite sprite5 = RogueUtilities.ConvertToSprite(Properties.Resources.SPYTRON3000);
-			CustomItem spytron3000 = RogueLibs.CreateCustomItem("SPYTRON3000", sprite5, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.SPYTRON3000);
+			CustomItem spytron3000 = RogueLibs.CreateCustomItem("SPYTRON3000", sprite, false,
 				new CustomNameInfo("SPYTRON 3000",
 					null, null, null, null,
 					"Шпионотрон 3000",
@@ -397,8 +397,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region Cup of Molten Chocolate
-			Sprite sprite6 = RogueUtilities.ConvertToSprite(Properties.Resources.CupOfMoltenChocolate);
-			CustomItem cupOfMoltenChocolate = RogueLibs.CreateCustomItem("CupOfMoltenChocolate", sprite6, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.CupOfMoltenChocolate);
+			CustomItem cupOfMoltenChocolate = RogueLibs.CreateCustomItem("CupOfMoltenChocolate", sprite, false,
 				new CustomNameInfo("Cup of Molten Chocolate",
 					null, null, null, null,
 					"Кружка расплавленного шоколада",
@@ -431,8 +431,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region Portable Ammo Dispenser
-			Sprite sprite7 = RogueUtilities.ConvertToSprite(Properties.Resources.PortableAmmoDispenser);
-			CustomItem portableAmmoDispenser = RogueLibs.CreateCustomItem("PortableAmmoDispenser", sprite7, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.PortableAmmoDispenser);
+			CustomItem portableAmmoDispenser = RogueLibs.CreateCustomItem("PortableAmmoDispenser", sprite, false,
 				new CustomNameInfo("Portable Ammo Dispenser",
 				null, null, null, null,
 				"Портативный раздатчик боеприпасов",
@@ -512,15 +512,15 @@ namespace aTonOfItems
 			#endregion
 
 			#region Ammo Box
-			Sprite sprite8 = RogueUtilities.ConvertToSprite(Properties.Resources.AmmoBox);
-			CustomItem ammoBox = RogueLibs.CreateCustomItem("AmmoBox", sprite8, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.AmmoBox);
+			CustomItem ammoBox = RogueLibs.CreateCustomItem("AmmoBox", sprite, false,
 				new CustomNameInfo("Ammo Box",
 				null, null, null, null,
 				"Ящик с боеприпасами",
 				null, null),
-				new CustomNameInfo("Combine with any refillable weapon to refill it.",
+				new CustomNameInfo("Combine with any refillable weapon to refill it. Limited ammo.",
 				null, null, null, null,
-				"Объедините с любым пополняемым оружием для пополнения.",
+				"Объедините с любым пополняемым оружием для пополнения. Ограниченный запас.",
 				null, null),
 				item =>
 				{
@@ -581,8 +581,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region Joke Book
-			Sprite sprite9 = RogueUtilities.ConvertToSprite(Properties.Resources.JokeBook);
-			CustomItem jokeBook = RogueLibs.CreateCustomItem("JokeBook", sprite9, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.JokeBook);
+			CustomItem jokeBook = RogueLibs.CreateCustomItem("JokeBook", sprite, false,
 				new CustomNameInfo("Joke Book",
 				null, null, null, null,
 				"Сборник шуток",
@@ -621,8 +621,8 @@ namespace aTonOfItems
 			#endregion
 
 			#region Grindstone
-			Sprite sprite10 = RogueUtilities.ConvertToSprite(Properties.Resources.Grindstone);
-			CustomItem grindstone = RogueLibs.CreateCustomItem("Grindstone", sprite10, false,
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.Grindstone);
+			CustomItem grindstone = RogueLibs.CreateCustomItem("Grindstone", sprite, false,
 				new CustomNameInfo("Grindstone",
 				null, null, null, null,
 				"Точильный камень",
@@ -674,7 +674,33 @@ namespace aTonOfItems
 				null, null));
 			#endregion
 
-			
+			#region Toolkit
+			sprite = RogueUtilities.ConvertToSprite(Properties.Resources.Toolkit);
+			CustomItem toolkit = RogueLibs.CreateCustomItem("Toolkit", sprite, false,
+				new CustomNameInfo("Toolkit",
+				null, null, null, null,
+				"Набор инструментов",
+				null, null),
+				new CustomNameInfo("Combines the effects of Wrench, crowbar, window cutter, lockpick and safe buster. Infinite use.",
+				null, null, null, null,
+				"Объединяет эффекты Гаечного ключа, Монтировки, Стеклореза, Отмычки и Взрывателя сейфов. Бесконечный.",
+				null, null),
+				item =>
+				{
+					item.itemType = "Tool";
+					item.Categories.Add("Usable");
+					item.Categories.Add("Technology");
+					item.Categories.Add("Stealth");
+					item.itemValue = 80;
+					item.initCount = 1;
+					item.rewardCount = 1;
+				});
+			toolkit.Prerequisites.Add("SkeletonKey");
+
+			toolkit.UnlockCost = 10;
+			toolkit.CostInCharacterCreation = 10;
+			toolkit.CostInLoadout = 10;
+			#endregion
 
 
 
@@ -742,8 +768,10 @@ namespace aTonOfItems
 		public static Dictionary<InvItem, float> VoodooCooldowns { get; set; }
 		public void VoodooCheck()
 		{
+			Dictionary<InvItem, float> newDic = new Dictionary<InvItem, float>();
 			foreach (KeyValuePair<InvItem, float> pair in VoodooCooldowns)
-				VoodooCooldowns[pair.Key] = Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f);
+				newDic.Add(pair.Key, Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f));
+			VoodooCooldowns = newDic;
 
 			List<InvItem> removal = new List<InvItem>();
 			foreach (KeyValuePair<InvItem, Agent> pair in VoodooUpdateList)
@@ -771,8 +799,10 @@ namespace aTonOfItems
 		public static Dictionary<InvItem, float> QuantumFudCooldowns { get; set; }
 		public void QuantumFudCheck()
 		{
+			Dictionary<InvItem, float> newDic = new Dictionary<InvItem, float>();
 			foreach (KeyValuePair<InvItem, float> pair in QuantumFudCooldowns)
-				QuantumFudCooldowns[pair.Key] = Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f);
+				newDic.Add(pair.Key, Mathf.Max(pair.Value - Time.fixedDeltaTime, 0f));
+			QuantumFudCooldowns = newDic;
 		}
 	}
 }

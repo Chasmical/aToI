@@ -24,7 +24,7 @@ namespace SuggestionGen
 			List<string> code = new List<string>();
 
 			string summarySub = original.Length > 0 ? " (translated from " + languageTextBox.Text.ToLower() + ")" : "";
-			code.Add("<details><summary>Suggestion" + summarySub + "</summary>");
+			code.Add("<details open><summary>Suggestion" + summarySub + "</summary>");
 
 			string blockquoteSub = sourceLinkTextBox.Text.Length > 0 ? " cite=\"" + sourceLinkTextBox.Text + "\"" : "";
 			code.Add("<blockquote" + blockquoteSub + "><p>");

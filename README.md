@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <p>
-    <a href="https://github.com/Abbysssal/aToI/releases/latest">
-      <img src="https://img.shields.io/github/v/release/Abbysssal/aToI?label=Latest%20release&style=for-the-badge&logo=github" alt="Latest release"/>
+    <!--<a href="https://github.com/Abbysssal/aToI/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Abbysssal/aToI?label=Latest%20release&style=for-the-badge&logo=github" alt="Latest release"/>-->
     </a>
     <a href="https://github.com/Abbysssal/aToI/releases">
       <img src="https://img.shields.io/github/v/release/Abbysssal/aToI?include_prereleases&label=Latest%20pre-release&style=for-the-badge&logo=github" alt="Latest pre-release"/>
@@ -40,8 +40,15 @@
 ## Deinstallation ##
 1.  Just remove "aTonOfItems.dll" from /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins.
 
+## Contributing ##
+You can send item suggestions and sprites in the #modding channel on [Streets of Rogue Discord server](https://discord.com/invite/streetsofrogue), or you can send it directly to me (Abbysssal#2020). Then, I will add them to the [suggestions](#Suggestions) list.
+
+To report bugs, mistakes and errors you can [create an issue on GitHub](https://github.com/Abbysssal/aToI/issues/new/choose).
+
+If you want to help with the code, just [create a pull request](https://github.com/Abbysssal/aToI/compare).
+
 ## New Items ##
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
 <span title="бесконечный хавчик, востанавливает 1 хп за прием.">infinite fud, restores 1 hp per use.</span><br/>
 <span title="способ получения (если можно) бросить хавчик в огонь.">obtaining method (if possible) throw fud into fire.</span><br/>
@@ -80,7 +87,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543"><p>
 <span title="Хех">Heh</span><br/>
 <span title="Может попробуешь сделать предмет который телепортирует на рандомное короткое расстояние?">Can you try to make an item that teleports on a random distance?</span>
@@ -113,7 +120,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574"><p>
 <span title="Кукла вуду, чтобы привязать к человеку нужно ударить его, работает как гипноз пришельца, с доступом к инвентарю жертвы">Voodoo doll, to bind it to a character you need to punch them, works like alien's hypnosis, with access to the victim's inventory</span>
 </p></blockquote>
@@ -128,7 +135,7 @@
 
 ![icon](./img/VoodooInactive.png) **Blank Voodoo Doll** - Bind it to someone first. Has limited uses. *(target any character to bind the doll to them)*
 
-![icon](./img/Voodoo.png) **Bound Voodoo Doll** - Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to remove the bond. *(combining with melee weapons deals some damage to the victim, ranged weapons - spawns the bullet/projectile into the victim, consumables - forces the victim to use that consumable)*
+![icon](./img/Voodoo.png) **Bound Voodoo Doll** - Combine the doll with any weapon/consumable to inflict damage/effects on the victim. Combine with itself to unbind. *(combining with melee weapons deals some damage to the victim, ranged weapons - spawns the bullet/projectile into the victim, consumables - forces the victim to use that consumable)*
 
 <table>
 <tr>
@@ -146,7 +153,7 @@
 </table>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/453256236461457409/743669131924209685"><p>
 <span>/suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things)</span>
 </p></blockquote>
@@ -171,7 +178,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731810716201517056"><p>
 <span title="сделай стакан горячего шоколада как в зе ескейпитс">make a cup of molten chocolate like in the escapists</span>
 </p></blockquote>
@@ -202,7 +209,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564"><p>
 <span title="а как нащёт портативного раздатчика патронов?">what about a portable ammo dispenser?</span>
 </p></blockquote>
@@ -232,7 +239,7 @@
 </tr>
 </table>
 
-![icon](./img/AmmoBox.png) **Ammo Box** - Combine with any refillable weapon to refill it. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*
+![icon](./img/AmmoBox.png) **Ammo Box** - Combine with any refillable weapon to refill it. Limited Ammo. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*
 
 <table>
 <tr>
@@ -250,7 +257,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194"><p>
 <span title="тип чтото типа книги которая">something like a book</span><br/>
 <span title="улучшает шутки">that upgrades jokes</span><br/>
@@ -289,7 +296,7 @@
 </table>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571"><p>
 <span title="можно сделать точильный камень который будет делать заточки из предметов">can you make a grindstone that will make shivs from items</span><br/>
 <span title="заточка 3 урона и 1 прочность">shiv 3 damage and 1 durability</span>
@@ -321,8 +328,36 @@
 </tr>
 </table>
 
+***
+<details open><summary>Suggestion</summary>
+<blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/752182015918342387"><p>
+<span>Item suggestion for Abbysssal</span><br/>
+<span>Toolkit</span><br/>
+<span>- 5 point value</span><br/>
+<span>Combines the effects of Wrench, crowbar, window cutter, lockpick and safe buster. Infinite use.</span>
+</p></blockquote>
+<footer>— Dapper Gentleman#5990, 06.09.2020 15:02, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/752182015918342387">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+</details>
+
+![icon](./img/Toolkit.png) **Toolkit** - Combines the effects of Wrench, Crowbar, Window Cutter, Lockpick and Safe Buster. Infinite use.
+
+<table>
+<tr>
+  <th>Requirements</th>
+  <th>Unlock Cost</th>
+  <th><abbr title="Custom Character Point Value">CCPV</abbr></th>
+  <th>Loadout Cost</th>
+</tr>
+<tr>
+  <td>Skeleton Key</td>
+  <td>10</td>
+  <td>10</td>
+  <td>10</td>
+</tr>
+</table>
+
 ## Suggestions ##
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843"><p>
 <span title="а че насчет гранат для инопланетных существ.">what about grenades for alien beings.</span><br/>
 <span title="ну тип кидаешь и там управление">throw them and there's control</span>
@@ -338,7 +373,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731837163041325117"><p>
 <span title="раз есть ломатель стекло надо сделать ломатель стен.">if there's a window breaker, then there must be a wall breaker.</span>
 </p></blockquote>
@@ -352,7 +387,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731873808901865472"><p>
 <span title="сделай еще бесконечную куклу вуду (просто чтоб пофаниться)">make an infinite voodoo doll (just for fun)</span>
 </p></blockquote>
@@ -366,7 +401,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731933584251682876"><p>
 <span title="мда">well</span><br/>
 <span title="вы конечно простите">sorry, of course</span><br/>
@@ -388,7 +423,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731936810451730452"><p>
 <span title="Старый телефон, через который можно вызвать робота убийцу на человека">Old phone, using which you can call a killer robot on a person</span><br/>
 <span title="И черный телефон, через который можно вызвать ассасинов на чкловека">And black phone, using which you can call assassins on a person</span><br/>
@@ -408,7 +443,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732278661612437545"><p>
 <span title="хм">hm</span><br/>
 <span title="а че насчет зомби гранаты">what about a zombie grenade</span><br/>
@@ -442,7 +477,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732289898173825124"><p>
 <span title="Предмет: удаленный контроллер (выглядит как геймпад иксбокса), призывается к человеку, как кукла вуду, позволяет управлять человеком  ака гипноз пришельца (одноразовый)">Item: remote controller (looks like xbox gamepad), is used on npc, just like voodoo doll, allows you to control that character aka alien's hypnosis (one-use)</span>
 </p></blockquote>
@@ -456,7 +491,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/732427893518499920"><p>
 <span>Coconut, which you can eat to heal or throw at people</span>
 </p></blockquote>
@@ -464,7 +499,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732489758122573889"><p>
 <span title="кнопка, которая позволяет нанести удар ракетой (1-3)">a button, that allows you to summon rockets (1-3)</span><br/>
 <span title="в указанное место">at the specified place</span>
@@ -480,7 +515,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732505628291104778"><p>
 <span title="бля такая идея">fuck, such an idea</span><br/>
 <span title="раньше в цервкях или что то типа этого">before in churches or something like that</span><br/>
@@ -508,7 +543,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732511902168514590"><p>
 <span title="идея для предмета ритуальный кинжал будет чинится либо личить игрока если им убить кого-то">item idea ritual dagger that will repair itself or heal the player when used to kill someone</span>
 </p></blockquote>
@@ -522,7 +557,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/733430331927036057"><p>
 <span title="В игре ведь есть возможность заставить игрока терять опыт (перк "Закон").  Предлагаю добавить вещи, позволяющие этот опыт тратить для разных магических эффектов.">It is possible to make the player lose experience (trait "I am the Law"). I'm suggesting to add items, that allow to spend experience for some magical effects.</span><br/>
 <span title="* Волшебная обойма для огнестрельного оружия, которая, будучи присоединенной к оружию, если патроны кончаются, полностью восстанавливает боезапас, но тратит на это опыт. ">* Magical Magazine for firearms, that when attached to a weapon, if you run out of bullets, it will fully refill ammo, but will consume some XP.</span><br/>
@@ -548,7 +583,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/733683396999380993"><p>
 <span>Here's a new item idea: The Portable Anvil! It lets you get your melee weapons to 150 durability with it in your inventory when you collect duplicates, instead of the max 100.</span>
 </p></blockquote>
@@ -556,7 +591,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/733721758548361256"><p>
 <span>ok what about a item taht lets you do the werewolf lunge?</span><br/>
 <span>like a "combat guide"</span>
@@ -565,7 +600,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/733737023268978739"><p>
 <span>zip tie, basically the cops handcuffs</span>
 </p></blockquote>
@@ -573,7 +608,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734010177337950288"><p>
 <span title="А как насчёт гранаты/флешки, которая будет прверащать близжайших/выбранного робота в союзника, даже если он будет враждебным (не считая робота-убийцу)">What about a grenade/usb, that will make nearby/selected robot alligned, even if they are hostile (except for the killer robot)</span>
 </p></blockquote>
@@ -587,7 +622,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734028268008898650"><p>
 <span title="Покебол. С помощью него с некоторым шансом можно сделать случайного человека союзником, но он будет маленьким, как разъяренная горилла из бочки(или оборотень)">Pokeball. With some chance you can make someone alligned, but they will be small, like a gorilla from the barrel(or a shapeshifter)</span>
 </p></blockquote>
@@ -601,7 +636,7 @@
 </details>
 
 ***
-<details><summary>Suggestion (translated from russian)</summary>
+<details open><summary>Suggestion (translated from russian)</summary>
 <blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734309380475977753"><p>
 <span title="идея для способности">ability idea</span><br/>
 <span title="наркоторговец">drug dealer</span><br/>
@@ -621,7 +656,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/737184628540178442"><p>
 <span>@Abbysssal you already have one Tf2 refrence in your mod pack, so I propose another one: the piss jar. Throw it down, and when it shatters everyone in a large radius runs away as far as they can from the splatter site. If thrown in property someone owns, that NPC prioritized running over being hostile.</span>
 </p></blockquote>
@@ -629,7 +664,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/738159339969445908"><p>
 <span>how about a rock proccessor? Insert almost any item and turn it into a rock?</span>
 </p></blockquote>
@@ -637,7 +672,7 @@
 </details>
 
 ***
-<details><summary>Suggestion</summary>
+<details open><summary>Suggestion</summary>
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/739663881303097354"><p>
 <span>my suggestions for new items:</span><br/>
 <span>mighty sword: </span><br/>

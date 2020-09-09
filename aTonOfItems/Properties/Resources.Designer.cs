@@ -143,6 +143,16 @@ namespace aTonOfItems.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] Toolkit {
+            get {
+                object obj = ResourceManager.GetObject("Toolkit", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] Voodoo {
             get {
                 object obj = ResourceManager.GetObject("Voodoo", resourceCulture);

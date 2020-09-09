@@ -54,6 +54,7 @@
     <None Include="Resources\JokeBook.bin" />
     <None Include="Resources\PortableAmmoDispenser.bin" />
     <None Include="Resources\QuantumFud.bin" />
+    <None Include="Resources\Toolkit.bin" />
     <None Include="Resources\Voodoo.bin" />
     <None Include="Resources\VoodooInactive.bin" />
     <None Include="Resources\WildBypasser.bin" />
