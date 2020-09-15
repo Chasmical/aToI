@@ -720,10 +720,29 @@ If you want to help with the code, just [create a pull request](https://github.c
 <footer>— GenEric#1897, 03.08.2020 2:00, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/739663881303097354">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
 </details>
 
+***
+<details open><summary>Suggestion</summary>
+<blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/754751393566556251"><p>
+<span>Now an item I think would be funny is a wall knocker gun</span><br/>
+<span>It creates a small, harmless explosion that can destroy any wall</span><br/>
+<span>It's like a rocket launcher and the blaster master trait, but it doesn't do damage to any characters and is half the size of a generator boom</span>
+</p></blockquote>
+<footer>— Dapper Gentleman#5990, 13.09.2020 17:12, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/754751393566556251">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+</details>
 
-
-
-
+***
+<details open><summary>Suggestion</summary>
+<blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/755482069207089204"><p>
+<span>A deployable sentry</span><br/>
+<span>Has 5/4 in every stat but speed, which is a -6/4 (can't move)</span><br/>
+<span>It has the traits "no in-fighting, electronic and accurate"</span><br/>
+<span>it's the robot body and legs all in dark blue, and no head</span><br/>
+<span>I could send you the character later if that helps</span><br/>
+<span>The flavour text could be "Summon a sentry at a given location and have it attack hostile for you</span><br/>
+<span>The sentry gets a pistol with 100 bullets in it</span>
+</p></blockquote>
+<footer>— Dapper Gentleman#5990, 15.09.2020 17:36, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/755482069207089204">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+</details>
 
 
 
