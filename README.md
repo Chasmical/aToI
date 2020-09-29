@@ -239,7 +239,9 @@ If you want to help with the code, just [create a pull request](https://github.c
 </tr>
 </table>
 
-![icon](./img/AmmoBox.png) **Ammo Box** - Combine with any refillable weapon to refill it. Limited Ammo. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*
+![icon](./img/AmmoBox4.png) **Ammo Box** - Combine with any refillable weapon to refill it. Limited Ammo. *(works like Portable Ammo Dispenser, but it uses its 'durability' instead of money)*
+
+Old sprites: ![icon](./img/AmmoBox.png) ![icon](./img/AmmoBox2.png) ![icon](./img/AmmoBox3.png)
 
 <table>
 <tr>
@@ -278,7 +280,9 @@ If you want to help with the code, just [create a pull request](https://github.c
 <footer>— Milky_Guy#4305, 12.07.20 11:21, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194">#sor_chyat (У Старин)</a></footer>
 </details>
 
-![icon](./img/JokeBook.png) **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*
+![icon](./img/JokeBook2.png) **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*
+
+Old sprite: ![icon](./img/JokeBook.png)
 
 <table>
 <tr>
@@ -744,6 +748,16 @@ If you want to help with the code, just [create a pull request](https://github.c
 <footer>— Dapper Gentleman#5990, 15.09.2020 17:36, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/755482069207089204">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
 </details>
 
+***
+<details open><summary>Suggestion</summary>
+<blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/759468731411333121"><p>
+<span>Wait @Abbysssal are you going to put the remote giantizer into aToI?</span><br/>
+<span>I can make a proper sprite for it</span><br/>
+<span>Remote Giantizer: 5 point item</span><br/>
+<span>Makes a single target become a giant near-permanently.</span>
+</p></blockquote>
+<footer>— Dapper Gentleman#5990, 26.09.2020 17:37, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/759468731411333121">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+</details>
 
 
 
