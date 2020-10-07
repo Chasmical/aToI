@@ -19,7 +19,7 @@
   </p>
 </div>
 
-## a Ton of Items (aToM) ##
+## a Ton of Items (aToI) ##
 
 ## Links ##
 *  [Download a Ton of Items](https://github.com/Abbysssal/aToI/releases)
