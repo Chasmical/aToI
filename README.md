@@ -157,7 +157,7 @@ If you want to help with the code, just [create a pull request](https://github.c
 <blockquote cite="https://discordapp.com/channels/187414758536773632/453256236461457409/743669131924209685"><p>
 <span>/suggest what if there was like a disguise ability. Kinda like the spy's disguise kit from tf2 except you can only disguise as people you are near (its like the hacking tool but instead of hacking things its disguising as things)</span>
 </p></blockquote>
-<footer>— Dudeguy1#8877, 11.07.2020 2:03, <a href="https://discordapp.com/channels/187414758536773632/453256236461457409/743669131924209685">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
+<footer>— Dudeguy1#8877, 11.07.2020 2:03, <a href="https://discordapp.com/channels/187414758536773632/453256236461457409/743669131924209685">#💬ideas-discussion✍️</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ![icon](./img/SPYTRON3000.png) **SPYTRON 3000** - Always wanted to be someone else? Now you can! *(disguises you as the selected character, currently doesn't work on colors)*
@@ -340,7 +340,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>- 5 point value</span><br/>
 <span>Combines the effects of Wrench, crowbar, window cutter, lockpick and safe buster. Infinite use.</span>
 </p></blockquote>
-<footer>— Dapper Gentleman#5990, 06.09.2020 15:02, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/752182015918342387">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dapper Gentleman#5990, 06.09.2020 15:02, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/752182015918342387">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ![icon](./img/Toolkit.png) **Toolkit** - Combines the effects of Wrench, Crowbar, Window Cutter, Lockpick and Safe Buster. Infinite use.
@@ -499,7 +499,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/732427893518499920"><p>
 <span>Coconut, which you can eat to heal or throw at people</span>
 </p></blockquote>
-<footer>— Argonaut#9174, 13.07.20 2:46, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/732427893518499920">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
+<footer>— Argonaut#9174, 13.07.20 2:46, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/732427893518499920">#💬ideas-discussion✍️</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -591,7 +591,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/733683396999380993"><p>
 <span>Here's a new item idea: The Portable Anvil! It lets you get your melee weapons to 150 durability with it in your inventory when you collect duplicates, instead of the max 100.</span>
 </p></blockquote>
-<footer>— Charlie 8-bit My Finger!#3458, 17.07.2020 13:55, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/733683396999380993">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
+<footer>— Charlie 8-bit My Finger!#3458, 17.07.2020 13:55, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/733683396999380993">#💬ideas-discussion✍️</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -600,7 +600,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>ok what about a item taht lets you do the werewolf lunge?</span><br/>
 <span>like a "combat guide"</span>
 </p></blockquote>
-<footer>— GenEric#1897, 17.07.2020 16:28, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/733721758548361256">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— GenEric#1897, 17.07.2020 16:28, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/733721758548361256">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -608,7 +608,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/733737023268978739"><p>
 <span>zip tie, basically the cops handcuffs</span>
 </p></blockquote>
-<footer>— Dudeguy1#8877, 17.07.2020 17:28, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/733737023268978739">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dudeguy1#8877, 17.07.2020 17:28, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/733737023268978739">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -664,7 +664,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <blockquote cite="https://discordapp.com/channels/187414758536773632/433748059172896769/737184628540178442"><p>
 <span>@Abbysssal you already have one Tf2 refrence in your mod pack, so I propose another one: the piss jar. Throw it down, and when it shatters everyone in a large radius runs away as far as they can from the splatter site. If thrown in property someone owns, that NPC prioritized running over being hostile.</span>
 </p></blockquote>
-<footer>— Dapper Gentleman#5990, 27.07.20 5:48, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/737184628540178442">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dapper Gentleman#5990, 27.07.20 5:48, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/737184628540178442">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -672,7 +672,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <blockquote cite="https://discordapp.com/channels/187414758536773632/187611778157379584/738159339969445908"><p>
 <span>how about a rock proccessor? Insert almost any item and turn it into a rock?</span>
 </p></blockquote>
-<footer>— Ruby the Phoenix#4621, 29.07.20 22:21, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/738159339969445908">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
+<footer>— Ruby the Phoenix#4621, 29.07.20 22:21, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/738159339969445908">#💬ideas-discussion✍️</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -721,7 +721,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>thats it</span><br/>
 <span>thanks for listening</span>
 </p></blockquote>
-<footer>— GenEric#1897, 03.08.2020 2:00, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/739663881303097354">#💬ideas-discussion✍️ (Streets of Rogue Discord)</a></footer>
+<footer>— GenEric#1897, 03.08.2020 2:00, <a href="https://discordapp.com/channels/187414758536773632/187611778157379584/739663881303097354">#💬ideas-discussion✍️</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -731,7 +731,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>It creates a small, harmless explosion that can destroy any wall</span><br/>
 <span>It's like a rocket launcher and the blaster master trait, but it doesn't do damage to any characters and is half the size of a generator boom</span>
 </p></blockquote>
-<footer>— Dapper Gentleman#5990, 13.09.2020 17:12, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/754751393566556251">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dapper Gentleman#5990, 13.09.2020 17:12, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/754751393566556251">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -745,7 +745,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>The flavour text could be "Summon a sentry at a given location and have it attack hostile for you</span><br/>
 <span>The sentry gets a pistol with 100 bullets in it</span>
 </p></blockquote>
-<footer>— Dapper Gentleman#5990, 15.09.2020 17:36, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/755482069207089204">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dapper Gentleman#5990, 15.09.2020 17:36, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/755482069207089204">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 ***
@@ -756,7 +756,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span>Remote Giantizer: 5 point item</span><br/>
 <span>Makes a single target become a giant near-permanently.</span>
 </p></blockquote>
-<footer>— Dapper Gentleman#5990, 26.09.2020 17:37, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/759468731411333121">#💬modding🔧 (Streets of Rogue Discord)</a></footer>
+<footer>— Dapper Gentleman#5990, 26.09.2020 17:37, <a href="https://discordapp.com/channels/187414758536773632/433748059172896769/759468731411333121">#💬modding🔧</a> (<a href="https://discord.com/invite/streetsofrogue">Streets of Rogue Discord</a>)</footer>
 </details>
 
 
