@@ -49,24 +49,24 @@ If you want to help with the code, just [create a pull request](https://github.c
 
 ## New Items ##
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+<blockquote><p>
 <span title="бесконечный хавчик, востанавливает 1 хп за прием.">infinite fud, restores 1 hp per use.</span><br/>
 <span title="способ получения (если можно) бросить хавчик в огонь.">obtaining method (if possible) throw fud into fire.</span><br/>
 <span title="а также он бесконечный :thinkingSmart:">and also it is infininte :thinkingSmart:</span><br/>
 <span title="и еще бесконечный он :thinking~1:">and infinite it is :thinking~1:</span><br/>
 <span title="попробуешь абба?">give it a try?</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737"><p>
+<blockquote><p>
 <span title="infinite fud, restores 1 hp per use.">бесконечный хавчик, востанавливает 1 хп за прием.</span><br/>
 <span title="obtaining method (if possible) throw fud into fire.">способ получения (если можно) бросить хавчик в огонь.</span><br/>
 <span title="and also it is infiinte :thinkingSmart:">а также он бесконечный :thinkingSmart:</span><br/>
 <span title="and infinite it is :thinking~1:">и еще бесконечный он :thinking~1:</span><br/>
 <span title="give it a try?">попробуешь абба?</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731592564486045737">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 11.07.2020 19:27, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/QuantumFud.png) **Quantum Fud** - A very complicated piece of quantum technology. When you eat it, its quantum equivalent clone is consumed, while the original thing remains intact. *(restores 1 hp per use, infinite)*
@@ -88,18 +88,18 @@ If you want to help with the code, just [create a pull request](https://github.c
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543"><p>
+<blockquote><p>
 <span title="Хех">Heh</span><br/>
 <span title="Может попробуешь сделать предмет который телепортирует на рандомное короткое расстояние?">Can you try to make an item that teleports on a random distance?</span>
 </p></blockquote>
-<footer>— Uncertainty#5751, 12.07.20 5:39, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543">#sor_chyat (У Старин)</a></footer>
+<footer>— Uncertainty#5751, 12.07.20 5:39, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543"><p>
+<blockquote><p>
 <span title="Heh">Хех</span><br/>
 <span title="Can you try to make an item that teleports on a random distance?">Может попробуешь сделать предмет который телепортирует на рандомное короткое расстояние?</span>
 </p></blockquote>
-<footer>— Uncertainty#5751, 12.07.20 5:39, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731746621917888543">#sor_chyat (У Старин)</a></footer>
+<footer>— Uncertainty#5751, 12.07.20 5:39, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/WildBypasser.png) **Wild Bypasser** - Warps you in the direction you're facing. Teleports through any amount of walls. *(works like Wall Bypasser, but teleports through any amount of walls)*
@@ -121,16 +121,16 @@ If you want to help with the code, just [create a pull request](https://github.c
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574"><p>
+<blockquote><p>
 <span title="Кукла вуду, чтобы привязать к человеку нужно ударить его, работает как гипноз пришельца, с доступом к инвентарю жертвы">Voodoo doll, to bind it to a character you need to punch them, works like alien's hypnosis, with access to the victim's inventory</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 8:34, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 8:34, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574"><p>
+<blockquote><p>
 <span title="Voodoo doll, to bind it to a character you need to punch them, works like alien's hypnosis, with access to the victim's inventory">Кукла вуду, чтобы привязать к человеку нужно ударить его, работает как гипноз пришельца, с доступом к инвентарю жертвы</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 8:34, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731790468219797574">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 8:34, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/VoodooInactive.png) **Blank Voodoo Doll** - Bind it to someone first. Has limited uses. *(target any character to bind the doll to them)*
@@ -179,16 +179,16 @@ If you want to help with the code, just [create a pull request](https://github.c
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731810716201517056"><p>
+<blockquote><p>
 <span title="сделай стакан горячего шоколада как в зе ескейпитс">make a cup of molten chocolate like in the escapists</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 9:54, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731810716201517056">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 9:54, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731810716201517056"><p>
+<blockquote><p>
 <span title="make a cup of molten chocolate like in the escapists">сделай стакан горячего шоколада как в зе ескейпитс</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 9:54, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731810716201517056">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 9:54, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/CupOfMoltenChocolate.png) **Cup of Molten Chocolate** - That's a nice drink you're enjoying there... AAAAAAAAAAAAAAAAAAAAH! *(just like in The Escapists 1/2, knocks people out instantly)*
@@ -210,16 +210,16 @@ If you want to help with the code, just [create a pull request](https://github.c
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564"><p>
+<blockquote><p>
 <span title="а как нащёт портативного раздатчика патронов?">what about a portable ammo dispenser?</span>
 </p></blockquote>
-<footer>— ! Qenapp#2445, 12.07.20 11:18, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564">#sor_chyat (У Старин)</a></footer>
+<footer>— ! Qenapp#2445, 12.07.20 11:18, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564"><p>
+<blockquote><p>
 <span title="what about a portable ammo dispenser?">а как нащёт портативного раздатчика патронов?</span>
 </p></blockquote>
-<footer>— ! Qenapp#2445, 12.07.20 11:18, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731831868663660564">#sor_chyat (У Старин)</a></footer>
+<footer>— ! Qenapp#2445, 12.07.20 11:18, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/PortableAmmoDispenser.png) **Portable Ammo Dispenser** - Use it to refill your ranged weapons' ammo. For money, of course. *(works almost like the regular Ammo Dispenser, but without the extra cost per floor)*
@@ -260,24 +260,24 @@ Old sprites: ![icon](./img/AmmoBox.png) ![icon](./img/AmmoBox2.png) ![icon](./im
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194"><p>
+<blockquote<p>
 <span title="тип чтото типа книги которая">something like a book</span><br/>
 <span title="улучшает шутки">that upgrades jokes</span><br/>
 <span title="и делает">and makes</span><br/>
 <span title="их всегда положительными">them always good</span><br/>
 <span title="но только 3 раза работает">but works only 3 times</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:21, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:21, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194"><p>
+<blockquote<p>
 <span title="something like a book">тип чтото типа книги которая</span><br/>
 <span title="that upgrades jokes">улучшает шутки</span><br/>
 <span title="and makes">и делает</span><br/>
 <span title="them always good">их всегда положительными</span><br/>
 <span title="but works only 3 times">но только 3 раза работает</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:21, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731832714831069194">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:21, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/JokeBook2.png) **Joke Book** - Always wanted to be a Comedian? Now you can! (kind of) *(a Joke item with limited uses)*
@@ -301,18 +301,18 @@ Old sprite: ![icon](./img/JokeBook.png)
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571"><p>
+<blockquote><p>
 <span title="можно сделать точильный камень который будет делать заточки из предметов">can you make a grindstone that will make shivs from items</span><br/>
 <span title="заточка 3 урона и 1 прочность">shiv 3 damage and 1 durability</span>
 </p></blockquote>
-<footer>— кто-то#6758, 14.07.20 8:24, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 14.07.20 8:24, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571"><p>
+<blockquote><p>
 <span title="can you make a grindstone that will make shivs from items">можно сделать точильный камень который будет делать заточки из предметов</span><br/>
 <span title="shiv 3 damage and 1 durability">заточка 3 урона и 1 прочность</span>
 </p></blockquote>
-<footer>— кто-то#6758, 14.07.20 8:24, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732512820637204571">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 14.07.20 8:24, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ![icon](./img/Grindstone.png) **Grindstone** - Use on melee weapons to sharpen them. Sharpened weapons will ignore all damage-reducing effects.
@@ -362,93 +362,93 @@ Old sprite: ![icon](./img/JokeBook.png)
 
 ## Suggestions ##
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843"><p>
+<blockquote><p>
 <span title="а че насчет гранат для инопланетных существ.">what about grenades for alien beings.</span><br/>
 <span title="ну тип кидаешь и там управление">throw them and there's control</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:29, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:29, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843"><p>
+<blockquote><p>
 <span title="what about grenades for alien beings.">а че насчет гранат для инопланетных существ.</span><br/>
 <span title="throw them and there's control">ну тип кидаешь и там управление</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:29, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731834503710113843">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:29, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731837163041325117"><p>
+<blockquote><p>
 <span title="раз есть ломатель стекло надо сделать ломатель стен.">if there's a window breaker, then there must be a wall breaker.</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:39, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731837163041325117">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:39, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731837163041325117"><p>
+<blockquote><p>
 <span title="if there's a window breaker, then there must be a wall breaker.">раз есть ломатель стекло надо сделать ломатель стен.</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 11:39, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731837163041325117">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 11:39, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731873808901865472"><p>
+<blockquote><p>
 <span title="сделай еще бесконечную куклу вуду (просто чтоб пофаниться)">make an infinite voodoo doll (just for fun)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 14:05, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731873808901865472">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 14:05, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731873808901865472"><p>
+<blockquote><p>
 <span title="make an infinite voodoo doll (just for fun)">сделай еще бесконечную куклу вуду (просто чтоб пофаниться)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 14:05, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731873808901865472">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 14:05, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731933584251682876"><p>
+<blockquote><p>
 <span title="мда">well</span><br/>
 <span title="вы конечно простите">sorry, of course</span><br/>
 <span title="но что насчет гранаты">but what about a grenade</span><br/>
 <span title="которую когда кидаешь">that when you throw it</span><br/>
 <span title="нпс начинают танцевать">npcs start dancing</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 18:02, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731933584251682876">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 18:02, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731933584251682876"><p>
+<blockquote><p>
 <span title="well">мда</span><br/>
 <span title="sorry, of course">вы конечно простите</span><br/>
 <span title="but what about a grenade">но что насчет гранаты</span><br/>
 <span title="that when you throw it">которую когда кидаешь</span><br/>
 <span title="npcs start dancing">нпс начинают танцевать</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 12.07.20 18:02, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731933584251682876">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 12.07.20 18:02, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731936810451730452"><p>
+<blockquote><p>
 <span title="Старый телефон, через который можно вызвать робота убийцу на человека">Old phone, using which you can call a killer robot on a person</span><br/>
 <span title="И черный телефон, через который можно вызвать ассасинов на чкловека">And black phone, using which you can call assassins on a person</span><br/>
 <span title="(Звонки платные)">(Paid calls)</span><br/>
 <span title="Ну или один телефон, через который можно вызвать ментов, ассасинов, робота, друзей, путан, за соотв. плату">Or just one phone, using which you can call the cops, assasins, robot, friends, hookers, for an appropriate cost</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 18:15, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731936810451730452">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 18:15, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/731936810451730452"><p>
+<blockquote><p>
 <span title="Old phone, using which you can call a killer robot on a person">Старый телефон, через который можно вызвать робота убийцу на человека</span><br/>
 <span title="And black phone, using which you can call assassins on a person">И черный телефон, через который можно вызвать ассасинов на чкловека</span><br/>
 <span title="(Paid calls)">(Звонки платные)</span><br/>
 <span title="Or just one phone, using which you can call the cops, assasins, robot, friends, hookers, for an appropriate cost">Ну или один телефон, через который можно вызвать ментов, ассасинов, робота, друзей, путан, за соотв. плату</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 12.07.20 18:15, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/731936810451730452">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 12.07.20 18:15, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732278661612437545"><p>
+<blockquote><p>
 <span title="хм">hm</span><br/>
 <span title="а че насчет зомби гранаты">what about a zombie grenade</span><br/>
 <span title="которая наносит эффект зомбирования">that inflicts zombie effect</span><br/>
@@ -461,10 +461,10 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="которая типа вентиляция">that is like a ventilation</span><br/>
 <span title="но в этом случаее онли эффект зомбирования">but in that case only zombification effect</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 13.07.20 16:53, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732278661612437545">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 13.07.20 16:53, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732278661612437545"><p>
+<blockquote><p>
 <span title="hm">хм</span><br/>
 <span title="what about a zombie grenade">а че насчет зомби гранаты</span><br/>
 <span title="that inflicts zombie effect">которая наносит эффект зомбирования</span><br/>
@@ -477,21 +477,21 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="that is like a ventilation">которая типа вентиляция</span><br/>
 <span title="but in that case only zombification effect">но в этом случаее онли эффект зомбирования</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 13.07.20 16:53, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732278661612437545">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 13.07.20 16:53, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732289898173825124"><p>
+<blockquote><p>
 <span title="Предмет: удаленный контроллер (выглядит как геймпад иксбокса), призывается к человеку, как кукла вуду, позволяет управлять человеком  ака гипноз пришельца (одноразовый)">Item: remote controller (looks like xbox gamepad), is used on npc, just like voodoo doll, allows you to control that character aka alien's hypnosis (one-use)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 13.07.20 17:31, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732289898173825124">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 13.07.20 17:31, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732289898173825124"><p>
+<blockquote><p>
 <span title="Item: remote controller (looks like xbox gamepad), is used on npc, just like voodoo doll, allows you to control that character aka alien's hypnosis (one-use)">Предмет: удаленный контроллер (выглядит как геймпад иксбокса), призывается к человеку, как кукла вуду, позволяет управлять человеком  ака гипноз пришельца (одноразовый)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 13.07.20 17:31, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732289898173825124">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 13.07.20 17:31, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
@@ -504,23 +504,23 @@ Old sprite: ![icon](./img/JokeBook.png)
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732489758122573889"><p>
+<blockquote><p>
 <span title="кнопка, которая позволяет нанести удар ракетой (1-3)">a button, that allows you to summon rockets (1-3)</span><br/>
 <span title="в указанное место">at the specified place</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 14.07.20 6:52, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732489758122573889">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 14.07.20 6:52, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732489758122573889"><p>
+<blockquote><p>
 <span title="a button, that allows you to summon rockets (1-3)">кнопка, которая позволяет нанести удар ракетой (1-3)</span><br/>
 <span title="at the specified place">в указанное место</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 14.07.20 6:52, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732489758122573889">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 14.07.20 6:52, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732505628291104778"><p>
+<blockquote><p>
 <span title="бля такая идея">fuck, such an idea</span><br/>
 <span title="раньше в цервкях или что то типа этого">before in churches or something like that</span><br/>
 <span title="альтарь стаял">there was an altar</span><br/>
@@ -530,10 +530,10 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="и выбираешь труп">and select a body</span><br/>
 <span title="и после съедения востанавливается хп">and after eating you restore hp</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 14.07.20 7:55, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732505628291104778">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 14.07.20 7:55, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732505628291104778"><p>
+<blockquote><p>
 <span title="fuck, such an idea">бля такая идея</span><br/>
 <span title="before in churches or something like that">раньше в цервкях или что то типа этого</span><br/>
 <span title="there was an altar">альтарь стаял</span><br/>
@@ -543,26 +543,26 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="and select a body">и выбираешь труп</span><br/>
 <span title="and after eating you restore hp">и после съедения востанавливается хп</span>
 </p></blockquote>
-<footer>— Milky_Guy#4305, 14.07.20 7:55, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732505628291104778">#sor_chyat (У Старин)</a></footer>
+<footer>— Milky_Guy#4305, 14.07.20 7:55, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732511902168514590"><p>
+<blockquote><p>
 <span title="идея для предмета ритуальный кинжал будет чинится либо личить игрока если им убить кого-то">item idea ritual dagger that will repair itself or heal the player when used to kill someone</span>
 </p></blockquote>
-<footer>— кто-то#6758, 14.07.20 8:20, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732511902168514590">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 14.07.20 8:20, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/732511902168514590"><p>
+<blockquote><p>
 <span title="item idea ritual dagger that will repair itself or heal the player when used to kill someone">идея для предмета ритуальный кинжал будет чинится либо личить игрока если им убить кого-то</span>
 </p></blockquote>
-<footer>— кто-то#6758, 14.07.20 8:20, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/732511902168514590">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 14.07.20 8:20, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/733430331927036057"><p>
+<blockquote><p>
 <span title="В игре ведь есть возможность заставить игрока терять опыт (перк "Закон").  Предлагаю добавить вещи, позволяющие этот опыт тратить для разных магических эффектов.">It is possible to make the player lose experience (trait "I am the Law"). I'm suggesting to add items, that allow to spend experience for some magical effects.</span><br/>
 <span title="* Волшебная обойма для огнестрельного оружия, которая, будучи присоединенной к оружию, если патроны кончаются, полностью восстанавливает боезапас, но тратит на это опыт. ">* Magical Magazine for firearms, that when attached to a weapon, if you run out of bullets, it will fully refill ammo, but will consume some XP.</span><br/>
 <span title="* Волшебная шляпа, позволяющая класть в нее вещь и доставать оттуда ее копии в обмен на опыт, количество которого зависит от цены вещи.">* Magical Hat, that allows you to put an item inside of it and get its copy in exchange for XP, the amount depends on the item cost.</span><br/>
@@ -571,10 +571,10 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="* Книга истинного воскрешения. Воскрешает мертвых без превращения в зомби, будучи примененной над трупом. Тратит опыт игрока пропорционально количеству здоровья у воскрешенного. А еще улучшается отношение воскрешенного к игроку - нейтралы и ниже становятся Friendly, а остальные начинают относиться к персонажу на один пункт лучше, чем относились до смерти.">* Book of the True Ressurection. Ressurects the dead without turning them into zombies. Uses the player's XP proportionally to the revivee's health. And also increases revivee's opinion to the player - neutrals and below become "Friendly", others' opinion increases by 1 stage than it was before their death.</span><br/>
 <span title="* Мантия мага. Сильно снижает получаемый урон, но при этом при получении урона тратит опыт.">* Mage Mantle. Significantly decreases received damage, but when damaged uses XP.</span>
 </p></blockquote>
-<footer>— ComputerHamster#4423, 16.07.20 21:10, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/733430331927036057">#sor_chyat (У Старин)</a></footer>
+<footer>— ComputerHamster#4423, 16.07.20 21:10, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/733430331927036057"><p>
+<blockquote><p>
 <span title="It is possible to make the player lose experience (trait "I am the Law"). I'm suggesting to add items, that allow to spend experience for some magical effects.">В игре ведь есть возможность заставить игрока терять опыт (перк "Закон").  Предлагаю добавить вещи, позволяющие этот опыт тратить для разных магических эффектов.</span><br/>
 <span title="* Magical Magazine for firearms, that when attached to a weapon, if you run out of bullets, it will fully refill ammo, but will consume some XP.">* Волшебная обойма для огнестрельного оружия, которая, будучи присоединенной к оружию, если патроны кончаются, полностью восстанавливает боезапас, но тратит на это опыт. </span><br/>
 <span title="* Magical Hat, that allows you to put an item inside of it and get its copy in exchange for XP, the amount depends on the item cost.">* Волшебная шляпа, позволяющая класть в нее вещь и доставать оттуда ее копии в обмен на опыт, количество которого зависит от цены вещи.</span><br/>
@@ -583,7 +583,7 @@ Old sprite: ![icon](./img/JokeBook.png)
 <span title="* Book of the True Ressurection. Ressurects the dead without turning them into zombies. Uses the player's XP proportionally to the revivee's health. And also increases revivee's opinion to the player - neutrals and below become "Friendly", others' opinion increases by 1 stage than it was before their death.">* Книга истинного воскрешения. Воскрешает мертвых без превращения в зомби, будучи примененной над трупом. Тратит опыт игрока пропорционально количеству здоровья у воскрешенного. А еще улучшается отношение воскрешенного к игроку - нейтралы и ниже становятся Friendly, а остальные начинают относиться к персонажу на один пункт лучше, чем относились до смерти.</span><br/>
 <span title="* Mage Mantle. Significantly decreases received damage, but when damaged uses XP.">* Мантия мага. Сильно снижает получаемый урон, но при этом при получении урона тратит опыт.</span>
 </p></blockquote>
-<footer>— ComputerHamster#4423, 16.07.20 21:10, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/733430331927036057">#sor_chyat (У Старин)</a></footer>
+<footer>— ComputerHamster#4423, 16.07.20 21:10, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
@@ -613,50 +613,50 @@ Old sprite: ![icon](./img/JokeBook.png)
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734010177337950288"><p>
+<blockquote><p>
 <span title="А как насчёт гранаты/флешки, которая будет прверащать близжайших/выбранного робота в союзника, даже если он будет враждебным (не считая робота-убийцу)">What about a grenade/usb, that will make nearby/selected robot alligned, even if they are hostile (except for the killer robot)</span>
 </p></blockquote>
-<footer>— Rauch#3108, 18.07.2020 11:34, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734010177337950288">#sor_chyat (У Старин)</a></footer>
+<footer>— Rauch#3108, 18.07.2020 11:34, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734010177337950288"><p>
+<blockquote><p>
 <span title="What about a grenade/usb, that will make nearby/selected robot alligned, even if they are hostile (except for the killer robot)">А как насчёт гранаты/флешки, которая будет прверащать близжайших/выбранного робота в союзника, даже если он будет враждебным (не считая робота-убийцу)</span>
 </p></blockquote>
-<footer>— Rauch#3108, 18.07.2020 11:34, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734010177337950288">#sor_chyat (У Старин)</a></footer>
+<footer>— Rauch#3108, 18.07.2020 11:34, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734028268008898650"><p>
+<blockquote><p>
 <span title="Покебол. С помощью него с некоторым шансом можно сделать случайного человека союзником, но он будет маленьким, как разъяренная горилла из бочки(или оборотень)">Pokeball. With some chance you can make someone alligned, but they will be small, like a gorilla from the barrel(or a shapeshifter)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 18.07.20 12:46, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734028268008898650">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 18.07.20 12:46, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734028268008898650"><p>
+<blockquote><p>
 <span title="Pokeball. With some chance you can make someone alligned, but they will be small, like a gorilla from the barrel(or a shapeshifter)">Покебол. С помощью него с некоторым шансом можно сделать случайного человека союзником, но он будет маленьким, как разъяренная горилла из бочки(или оборотень)</span>
 </p></blockquote>
-<footer>— babzoid1#7584, 18.07.20 12:46, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734028268008898650">#sor_chyat (У Старин)</a></footer>
+<footer>— babzoid1#7584, 18.07.20 12:46, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
 <details open><summary>Suggestion (translated from russian)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734309380475977753"><p>
+<blockquote><p>
 <span title="идея для способности">ability idea</span><br/>
 <span title="наркоторговец">drug dealer</span><br/>
 <span title="на пкм с зарядкой и уроном как у зомби полож. эффект">on rmb with charge and damage like zombie positive effect</span><br/>
 <span title="типо -5 хп но +сила">like -5 hp but +strength</span>
 </p></blockquote>
-<footer>— кто-то#6758, 19.07.2020 7:23, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734309380475977753">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 19.07.2020 7:23, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 <details><summary>Suggestion (original)</summary>
-<blockquote cite="https://discordapp.com/channels/402143558695387144/564721231576694784/734309380475977753"><p>
+<blockquote><p>
 <span title="ability idea">идея для способности</span><br/>
 <span title="drug dealer">наркоторговец</span><br/>
 <span title="on rmb with charge and damage like zombie positive effect">на пкм с зарядкой и уроном как у зомби полож. эффект</span><br/>
 <span title="like -5 hp but +strength">типо -5 хп но +сила</span>
 </p></blockquote>
-<footer>— кто-то#6758, 19.07.2020 7:23, <a href="https://discordapp.com/channels/402143558695387144/564721231576694784/734309380475977753">#sor_chyat (У Старин)</a></footer>
+<footer>— кто-то#6758, 19.07.2020 7:23, <a href="https://discord.gg/neDvsmk">#sor_chyat (База Сопротивления)</a></footer>
 </details>
 
 ***
