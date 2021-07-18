@@ -37,7 +37,7 @@
 4.  Drag the file "aTonOfItems.dll" into directory /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins;
 5.  Done! Now run the game and enjoy!
 
-## Deinstallation ##
+## Uninstallation ##
 1.  Just remove "aTonOfItems.dll" from /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins.
 
 ## Contributing ##
