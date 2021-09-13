@@ -19,7 +19,8 @@
   </p>
 </div>
 
-## a Ton of Items (aToI) ##
+# aToI is now a part of [Traveler's Bag Build project](https://ztbbz.github.io/TBB/)!
+# This separate version will not be updated.
 
 ## Links ##
 *  [Download a Ton of Items](https://github.com/Abbysssal/aToI/releases)
