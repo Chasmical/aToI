@@ -1,20 +1,20 @@
 ﻿<div align="center">
   <p>
-    <!--<a href="https://github.com/Abbysssal/aToI/releases/latest">
-      <img src="https://img.shields.io/github/v/release/Abbysssal/aToI?label=Latest%20release&style=for-the-badge&logo=github" alt="Latest release"/>-->
+    <!--<a href="https://github.com/SugarBarrel/aToI/releases/latest">
+      <img src="https://img.shields.io/github/v/release/SugarBarrel/aToI?label=Latest%20release&style=for-the-badge&logo=github" alt="Latest release"/>-->
     </a>
-    <a href="https://github.com/Abbysssal/aToI/releases">
-      <img src="https://img.shields.io/github/v/release/Abbysssal/aToI?include_prereleases&label=Latest%20pre-release&style=for-the-badge&logo=github" alt="Latest pre-release"/>
+    <a href="https://github.com/SugarBarrel/aToI/releases">
+      <img src="https://img.shields.io/github/v/release/SugarBarrel/aToI?include_prereleases&label=Latest%20pre-release&style=for-the-badge&logo=github" alt="Latest pre-release"/>
     </a>
     <br/>
-    <a href="https://github.com/Abbysssal/aToI/releases">
-      <img src="https://img.shields.io/github/downloads/Abbysssal/aToI/total?label=Downloads&style=for-the-badge" alt="Downloads"/>
+    <a href="https://github.com/SugarBarrel/aToI/releases">
+      <img src="https://img.shields.io/github/downloads/SugarBarrel/aToI/total?label=Downloads&style=for-the-badge" alt="Downloads"/>
     </a>
-    <a href="https://github.com/Abbysssal/aToI/subscription">
-      <img src="https://img.shields.io/github/watchers/Abbysssal/aToI?color=green&label=Watchers&style=for-the-badge" alt="Watchers"/>
+    <a href="https://github.com/SugarBarrel/aToI/subscription">
+      <img src="https://img.shields.io/github/watchers/SugarBarrel/aToI?color=green&label=Watchers&style=for-the-badge" alt="Watchers"/>
     </a>
-    <a href="https://github.com/Abbysssal/aToI/stargazers">
-      <img src="https://img.shields.io/github/stars/Abbysssal/aToI?color=green&label=Stars&style=for-the-badge" alt="Stars"/>
+    <a href="https://github.com/SugarBarrel/aToI/stargazers">
+      <img src="https://img.shields.io/github/stars/SugarBarrel/aToI?color=green&label=Stars&style=for-the-badge" alt="Stars"/>
     </a>
   </p>
 </div>
@@ -23,8 +23,8 @@
 # This separate version will not be updated.
 
 ## Links ##
-*  [Download a Ton of Items](https://github.com/Abbysssal/aToI/releases)
-*  [RogueLibs on GitHub](https://github.com/Abbysssal/RogueLibs)
+*  [Download a Ton of Items](https://github.com/SugarBarrel/aToI/releases)
+*  [RogueLibs on GitHub](https://github.com/SugarBarrel/RogueLibs)
 
 ## Installation ##
 1.  Install BepInEx:
@@ -32,9 +32,9 @@
     2.  Drag all files from the archive into directory /Steam/SteamApps/common/Streets of Rogue/;
     3.  Run the game, so BepInEx can create needed files and directories, and close the game;
 2.  Install RogueLibs:
-    1.  [Download the latest version of RogueLibs](https://github.com/Abbysssal/RogueLibs/releases/latest);
+    1.  [Download the latest version of RogueLibs](https://github.com/SugarBarrel/RogueLibs/releases/latest);
     2.  Drag the file "RogueLibs.dll" into directory /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins;
-3.  [Download the latest version of a Ton of Items](https://github.com/Abbysssal/aToI/releases/latest);
+3.  [Download the latest version of a Ton of Items](https://github.com/SugarBarrel/aToI/releases/latest);
 4.  Drag the file "aTonOfItems.dll" into directory /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins;
 5.  Done! Now run the game and enjoy!
 
@@ -44,9 +44,9 @@
 ## Contributing ##
 You can send item suggestions and sprites in the #modding channel on [Streets of Rogue Discord server](https://discord.com/invite/streetsofrogue), or you can send it directly to me (Abbysssal#2020). Then, I will add them to the [suggestions](#Suggestions) list.
 
-To report bugs, mistakes and errors you can [create an issue on GitHub](https://github.com/Abbysssal/aToI/issues/new/choose).
+To report bugs, mistakes and errors you can [create an issue on GitHub](https://github.com/SugarBarrel/aToI/issues/new/choose).
 
-If you want to help with the code, just [create a pull request](https://github.com/Abbysssal/aToI/compare).
+If you want to help with the code, just [create a pull request](https://github.com/SugarBarrel/aToI/compare).
 
 ## New Items ##
 <details open><summary>Suggestion (translated from russian)</summary>
